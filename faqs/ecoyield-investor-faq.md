@@ -52,8 +52,7 @@ They are variable but asset-backed and transparent.
 A: Each project is owned by a dedicated SPV (Special Purpose Vehicle),
 managed by EcoYield but ring-fenced to protect investor interests.
 
-- Q: Do token-holders have enforceable legal rights to the underlying
-; assets?
+- Q: Do token-holders have enforceable legal rights to the underlying assets?
 
 A: No; token holders do not own the hardware directly. Their rights are
 tied to revenue flows secured via smart contracts.
@@ -63,8 +62,7 @@ tied to revenue flows secured via smart contracts.
 A: SPVs remain operational. Vault token rights to revenue streams
 continue even if the parent company faces difficulties.
 
-- Q: How are external investor contributions recorded on the balance
-; sheet?
+- Q: How are external investor contributions recorded on the balance sheet?
 
 A: As project financing obligations of the SPV; not debt or equity of
 EcoYield Ltd.
@@ -97,8 +95,7 @@ access to new vaults, and upside from buybacks driven by protocol fees.
 A: Vault smart contracts are non-custodial. Any change to yield
 mechanics requires DAO approval.
 
-- Q: Will presale investors receive LP tokens once pilot projects go
-; live?
+- Q: Will presale investors receive LP tokens once pilot projects go live?
 
 A: Yes; presale investors are first in line for LP allocations
 proportional to their early contribution.
@@ -213,13 +210,11 @@ AI clients.
 As with any technology, obsolescence is a factor. EcoYield mitigates
 this by:
 
-- Leasing into both enterprise contracts and decentralised marketplaces
-; (balancing demand sources).
+- Leasing into both enterprise contracts and decentralised marketplaces (balancing demand sources).
 
 - Maintaining upgrade cycles in the financial model.
 
-- Diversifying project revenue with renewable energy sales, which remain
-; stable regardless of GPU lifecycle.
+- Diversifying project revenue with renewable energy sales, which remain stable regardless of GPU lifecycle.
 
 **Are spare GPUs or redundancy built into operations?**
 

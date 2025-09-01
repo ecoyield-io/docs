@@ -13,14 +13,14 @@ the world.
 ## How Investors Benefit
 
 - Investors commit stablecoins into project vaults.
-- In return, they receive LP Tokens (backed by real infrastructure) and
-$EYE Tokens (governance + yield boosting).
+- In return, they receive LP Tokens (backed by real infrastructure) and $EYE Tokens (governance + yield boosting)
 - Yield is generated from two streams:
+
 1. GPU leasing revenue; from AI developers and networks.
 2. Clean energy revenue; from solar + battery systems powering the
 sites, or sold to the grid via long-term PPAs.
 
-This creates stable, asset-backed returns in the range of 25–35% APY,
+This creates stable, asset-backed returns in the range of`25–35% APY,
 fully auditable and distributed on-chain.
 
 ## Why It Matters

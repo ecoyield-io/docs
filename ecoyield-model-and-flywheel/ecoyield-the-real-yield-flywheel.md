@@ -6,7 +6,7 @@ cycle of compounding demand and value.
 
 ## How the Flywheel Works
 
-1\. TVL Growth (Capital Inflows)
+1. TVL Growth (Capital Inflows)
 - New investors commit stablecoins into EcoYield vaults.
 - Total Value Locked (TVL) rises, giving the protocol more deployment
 capital.

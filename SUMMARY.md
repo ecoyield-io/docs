@@ -64,8 +64,7 @@
 * [Incentives; Early Vouchers, Referral Schemes, Staking Boosts](community-and-ecosystem/incentives-ecoyield.md)
 
 ## Team & Advisors
-* [Partners](team-and-advisors/partners/README.md)
-; * [Partners; Legal, Marketing, Infrastructure, Strategic Ecosystem](team-and-advisors/partners/ecoyield-partners.md)
+* [Partners](team-and-advisors/partners/README.md) * [Partners; Legal, Marketing, Infrastructure, Strategic Ecosystem](team-and-advisors/partners/ecoyield-partners.md)
 
 ## Environmental & Impact Focus
 * [Carbon Credit Integration; ESG-Aligned Revenues](environmental-and-impact-focus/carbon-credit-integration-esg-aligned-revenues.md)

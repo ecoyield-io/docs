@@ -34,14 +34,8 @@ EcoYield scales.
 
 ## Implementation Principles
 
-- Soft Gating: Investors can explore the platform before KYC;
-verification is required only before yield-bearing LP tokens are
-issued.
-- Progressive Triggers: Additional checks are requested only as
-allocations increase or if activity looks suspicious.
-- Transparency by Design: Smart contracts and oracles provide audit
-trails, giving regulators and investors confidence.
+- Soft Gating: Investors can explore the platform before KYC verification is required only before yield-bearing LP tokens are issued.
+- Progressive Triggers: Additional checks are requested only as allocations increase or if activity looks suspicious.
+- Transparency by Design: Smart contracts and oracles provide audit trails, giving regulators and investors confidence.
 
-EcoYield’s approach ensures compliance while protecting
-accessibility. KYC is required only where it matters; for yield-bearing
-LP tokens; so the protocol remains inclusive, secure, and future-ready.
+EcoYield’s approach ensures compliance while protecting accessibility. KYC is required only where it matters; for yield-bearing LP tokens; so the protocol remains inclusive, secure, and future-ready.

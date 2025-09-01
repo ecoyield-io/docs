@@ -36,7 +36,7 @@ as we grow.
 
 ## The Impact We Aim to Create
 
-1\. For Investors: A new asset class that combines strong APYs (25–35%)
+1. For Investors: A new asset class that combines strong APYs (25–35%)
 with long-term upside from $EYE governance and equity.
 2. For the Planet: Acceleration of renewable energy deployment, with
 carbon-neutral AI infrastructure as the standard.

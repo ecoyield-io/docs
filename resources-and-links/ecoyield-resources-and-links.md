@@ -7,24 +7,17 @@ files as they are published.
 
 ## Official Channels
 
-- Website → \[Insert final URL once live\]
-- Twitter/X → \[Insert official handle\]
-- Telegram Community → \[Insert invite link\]
-- GitHub Repository → \[Insert repo link for smart contracts &
-audits\]
-- YouTube / Explainer Video → \[Insert once uploaded\]
-- Investor Relations Contact → \[Insert team email / contact form
-link\]
-
-Action: Team to add the final URLs once each channel is launched.
+- [Website](https://ecoyield.io)
+- [Twitter/X]()
+- [Telegram Community]()
+- [GitHub Repository](https://github.com/ecoyield-io)
+- [Investor Relations Contact](https://form.typeform.com/to/QeJHB8H0)
 
 ## Investor Collateral
 
-- Pitch Decks & One-Pagers → \[Upload PDF(s) here\]
-- Whitepaper / Litepaper → \[Insert final versions once published\]
-- Explainer Video Deck → \[Link once uploaded\]
-
-Action: Ensure latest, investor-ready versions are always uploaded here.
+- Pitch Decks & One-Pagers (Coming Soon)
+- Whitepaper / Litepaper (Coming Soon)
+- Explainer Video Deck (Coming Soon)
 
 ## Financial & Tokenomics Models
 
@@ -37,30 +30,14 @@ https://docs.google.com/spreadsheets/d/11IrWvCA_GQpWzET8zeyN5p-VOmoRLPatxvrxNOLB
 - Investor ROI Calculator →
 https://docs.google.com/spreadsheets/d/1Unl6TEL4e1WPGMtgPSLNc1-cT8U28kyinzDRTAIa7e4/edit?gid=101637727#gid=101637727
 
-Action: Keep all links set to view-only with clear version control.
-
 ## Legal & Compliance Docs
 
-- Notion Doc; Fee Breakdown & Tokenomics Update →
-https://www.notion.so/Ecoyield-Tokenomics-Updates-23f7d2ec9ee680b6b4d8d5c50e0aa5ec?source=copy_link
-- Terms of Service → \[Insert final public version\]
-- Privacy Policy → \[Insert final public version\]
-- Risk Disclosure Statement → \[Insert final public version\]
-
-Action: Confirm final compliance versions before publishing publicly.
+- Fee Breakdown & Tokenomics Update
+- Terms of Service
+- Privacy Policy
+- Risk Disclosure Statement
 
 ## Data Room (Investor Access)
 
-- Notion Investor Data Room → \[Insert secure access link once
-available\]
+- Investor Data Room
 Includes: Tokenomics, IRR models, project financials, legal docs.
-
-Action: Investor access should remain gated; Gitbook can describe
-contents but not expose confidential files.
-
-Reminder for Team:
-- Audit all links regularly (especially Google Docs/Sheets) for
-permissions.
-- Ensure public Gitbook only contains investor-facing materials.
-- Keep private, confidential files gated via Notion or Data Room
-invite-only links.

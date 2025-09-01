@@ -25,7 +25,7 @@ redemption/buyback pathways.
 
 ## How to Use
 
-1\. Download the Calculator: Provided in Excel format within the
+1. Download the Calculator: Provided in Excel format within the
 EcoYield data room.
 2. Input Investment Details: Enter the USD (or GBP/ETH equivalent)
 amount you are considering.
