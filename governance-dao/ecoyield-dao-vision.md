@@ -56,7 +56,7 @@ decentralised, AI-augmented infrastructure investment platform; with
 the community deciding what to build, where to scale, and how yield is
 distributed globally.
 
-✨ Why It Matters:
+Why It Matters:
 Phased decentralisation ensures EcoYield is not a vapourware DAO but a
 real, revenue-driven protocol where governance grows alongside
 infrastructure and AI capabilities. It protects early investors, secures

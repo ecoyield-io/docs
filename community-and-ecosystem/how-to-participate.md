@@ -48,7 +48,7 @@ the EcoYield DAO.
 - Phased rollout ensures a secure transition from multisig to full DAO
 governance.
 
-✨ In short:
+In short:
 - Presale → Secure early $EYE + LP allocations.
 - Staking → Boost yields + access priority.
 - LP Vaults → Earn stable, asset-backed yield.

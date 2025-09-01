@@ -47,7 +47,7 @@ emissions.
 - Scalability; As EcoYield expands globally, LP vaults multiply,
 compounding total value locked (TVL) and protocol growth.
 
-✨ The Result: LP tokens transform AI compute and renewable energy
+LP tokens transform AI compute and renewable energy
 infrastructure into digital, yield-bearing assets; giving investors
 exposure to one of the fastest-growing industries, with stable,
 transparent on-chain returns.

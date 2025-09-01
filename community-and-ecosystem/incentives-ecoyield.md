@@ -37,7 +37,7 @@ months, up to ×4 for 12 months).
 - This creates strong alignment: the more committed a participant is,
 the greater their long-term rewards.
 
-✨ Why This Matters
+Why This Matters
 EcoYield’s incentive design ensures that early adopters, community
 advocates, and long-term believers all benefit disproportionately. By
 combining early vouchers, referrals, and staking boosts, the protocol

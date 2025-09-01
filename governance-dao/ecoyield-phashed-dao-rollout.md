@@ -50,7 +50,7 @@ governance.
 infrastructure investment fund owned and steered by its global
 community.
 
-✨ Why This Matters
+Why This Matters
 This phased rollout ensures EcoYield governance grows with the protocol.
 Each phase adds more decentralisation, AI-driven intelligence, and
 community power; while preserving security, investor trust, and

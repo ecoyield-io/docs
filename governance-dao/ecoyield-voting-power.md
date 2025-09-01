@@ -44,7 +44,7 @@ the protocol’s growth.
 - Early investors who lock tokens not only earn yield boosts but also
 play a stronger role in shaping the protocol’s direction.
 
-✨ In Summary
+In Summary
 The $EYE token gives every participant a voice in EcoYield’s future.
 With AI-enhanced governance, clear quorum rules, and incentives for
 long-term holders, voting power ensures decisions are transparent,

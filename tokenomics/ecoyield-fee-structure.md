@@ -53,6 +53,6 @@ creating compounding value for long-term holders.
 - Low friction: No withdrawal fees, ensuring accessibility and investor
 confidence.
 
-✨ Result: EcoYield generates revenue sustainably while keeping
+EcoYield generates revenue sustainably while keeping
 investors protected and incentivised. Fees fuel growth, buybacks, and
 treasury stability, ensuring the protocol’s longevity.

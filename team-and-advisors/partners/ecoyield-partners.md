@@ -87,7 +87,7 @@ A decentralised GPU compute marketplace. EcoYield integrates with Aethir
 to lease GPU capacity on-chain, expanding demand and revenue.
 🔗 Core Role: Decentralised marketplace for GPU leasing.
 
-✨ Together, these partners enable EcoYield to deliver:
+Together, these partners enable EcoYield to deliver:
 1. Legal clarity (Panama, BVI, UAE, MiCA compliance).
 2. Marketing execution (PR, Web3 growth, investor awareness).
 3. Infrastructure excellence (renewables, AI compute, blockchain).

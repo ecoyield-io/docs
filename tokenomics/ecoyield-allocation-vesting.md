@@ -58,6 +58,6 @@ not speculation.
 - Build trust; Investors know the project cannot “dump” supply;
 everything is structured, predictable, and tied to project delivery.
 
-✨ The takeaway: EcoYield’s allocation and vesting model ensures
+EcoYield’s allocation and vesting model ensures
 fairness, stability, and alignment; keeping the protocol grounded in
 real-world yield and long-term growth, not hype.

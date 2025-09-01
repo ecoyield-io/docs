@@ -65,7 +65,7 @@ highest-yielding projects in our early portfolio.
 
 - Environmental Impact: Integrates clean power, displaces fossil-fuel compute, and generates verifiable carbon credits.
 
-✨ The Dubai flagship is designed as EcoYield’s showcase project 
+The Dubai flagship is designed as EcoYield’s showcase project 
 pairing the world’s most in-demand compute with sustainable,
 revenue-generating infrastructure in one of the fastest-growing AI hubs
 globally.

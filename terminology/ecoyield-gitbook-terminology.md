@@ -67,6 +67,6 @@ reducing friction for global investors.
 When the EcoYield treasury uses protocol fees to purchase $EYE tokens
 from the market, supporting token value and rewarding stakers.
 
-✨ Why This Matters: By making terms simple and transparent, EcoYield
+By making terms simple and transparent, EcoYield
 empowers both seasoned crypto investors and newcomers to understand how
 real-world yield is generated.

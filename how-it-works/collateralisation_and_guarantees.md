@@ -45,6 +45,6 @@ speculation.
 - Projects are de-risked via feasibility studies, independent audits,
 and transparent on-chain reporting.
 
-✨ EcoYield isn’t vaporware. It’s a protocol backed by hard assets, real
+EcoYield isn’t vaporware. It’s a protocol backed by hard assets, real
 contracts, and governance safeguards; giving investors true confidence
 in the durability of their yield.

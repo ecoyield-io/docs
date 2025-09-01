@@ -26,7 +26,3 @@ becomes a driver of broader environmental and social good.
 prioritised, aligning financial returns with shared values.
 - Brand Differentiation: Demonstrates EcoYield’s commitment to
 measurable impact, setting it apart from purely profit-driven protocols.
-
-✨ In practice, EcoYield’s Impact Grants ensure that every vault funded
-not only delivers yield, but also contributes to a more sustainable and
-equitable global energy future.

@@ -48,7 +48,7 @@ recurring, predictable returns.
 - ESG Impact; All projects powered by renewables, contributing
 measurable carbon reductions and potential carbon credit revenue.
 
-✨ EcoYield is not just a pilot or one-off project. It’s a scalable
+EcoYield is not just a pilot or one-off project. It’s a scalable
 platform designed to build a global portfolio of renewable-powered
 compute farms, capturing exponential demand for AI infrastructure while
 delivering transparent, tokenized yields.

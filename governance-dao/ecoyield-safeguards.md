@@ -42,7 +42,6 @@ underperformance, technical issues, or black swan events.
 mind to LP investors and underpins EcoYield’s credibility as a serious
 infrastructure protocol.
 
-✨ In Summary
 EcoYield balances community-driven governance with risk-managed
 safeguards. By combining multisig security, temporary veto power,
 cooldown delays, and an insurance vault, we ensure that governance

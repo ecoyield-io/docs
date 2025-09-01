@@ -57,6 +57,6 @@ in the early phases, and
 EcoYield creates a layered, robust investment vetting process that
 balances speed with accuracy, and vision with accountability.
 
-✨ The result: Investors know that every vault they participate in is
+Investors know that every vault they participate in is
 backed by due diligence, transparent modelling, and expert oversight 
 not hype.

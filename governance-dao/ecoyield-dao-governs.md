@@ -51,7 +51,7 @@ reserves.
 incentives competitive.
 - AI monitoring ensures fair distribution and long-term sustainability.
 
-✨ The Big Picture
+The Big Picture
 By governing vault approvals, treasury use, partnerships, fees, and
 yield distribution, the EcoYield DAO ensures that both early investors
 and future participants remain aligned. Importantly, with AI assistance,

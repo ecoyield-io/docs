@@ -41,6 +41,6 @@ institutional capital.
 - Ensures every project is not just profitable, but measurably
 contributing to global decarbonisation.
 
-✨ Carbon credits transform EcoYield’s projects into ESG-aligned
+Carbon credits transform EcoYield’s projects into ESG-aligned
 infrastructure, combining financial returns with environmental impact.
 Investors don’t just earn yieldthey fund the clean energy transition.
