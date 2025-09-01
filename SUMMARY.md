@@ -1,10 +1,14 @@
 # Table of contents
 
-* [Introduction](README.md)
-  * [EcoYield – Vision & Mission](<1.0 - Introduction/EcoYield_Vision_and_Mission.md>)
-  * [Why GPUs Matter — The Engine of the AI Revolution](<1.0 - Introduction/EcoYield_Why_GPUs_Matter.md>)
-  * [What is EcoYield?](<1.0 - Introduction/What_is_EcoYield.md>)
-  * [Why Now?](<1.0 - Introduction/Why_Now_EcoYield.md>)
+## Introduction
+
+* [EcoYield – Vision & Mission](README.md)
+* [What is EcoYield?](introduction/what_is_ecoyield.md)
+* [Why GPUs Matter — The Engine of the AI Revolution](introduction/ecoyield_why_gpus_matter.md)
+* [Why Now?](introduction/why_now_ecoyield.md)
+
+***
+
 * [How it works](2.0-how-it-works/README.md)
   * [Collateralisation & Guarantees](<2.0 - How it works  /EcoYield_Collateralisation_and_Guarantees.md>)
   * [How Investments Are Vetted](<2.0 - How it works  /EcoYield_How_Investments_Are_Vetted.md>)
