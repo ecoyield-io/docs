@@ -1,13 +1,13 @@
 # Table of contents
 
-## 1.0 Introduction
+## Introduction
 
 * [Vision & Mission](introduction/vision_and_mission.md)
 * [What is EcoYield?](introduction/what_is_ecoyield.md)
 * [Why GPUs Matter — The Engine of the AI Revolution](introduction/ecoyield_why_gpus_matter.md)
 * [Why Now?](introduction/why_now_ecoyield.md)
 
-## 2.0 How it works
+## How it works
 
 * [Collateralisation & Guarantees](how-it-works/collateralisation_and_guarantees.md)
 * [How Investments Are Vetted](how-it-works/how_investments_are_vetted.md)
