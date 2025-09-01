@@ -12,7 +12,7 @@ highest-yielding projects in our early portfolio.
 - GPUs: 100 × NVIDIA H100 (high-performance AI compute units).
 
 - Solar Array: 800 kWp ground-mounted system (≈ 1,500 JA Solar JAM72
-  modules).
+; modules).
 
 - Battery Storage: 2 MWh Huawei Luna2000 pack.
 
@@ -20,8 +20,8 @@ highest-yielding projects in our early portfolio.
 
 - Site: Bab Al Shams, UAE.
 
-- Consumption Strategy: Hybrid model — 80% self-consumption by GPUs, 20%
-  exported under long-term PPA agreements.
+- Consumption Strategy: Hybrid model; 80% self-consumption by GPUs, 20%
+; exported under long-term PPA agreements.
 
 - Carbon Impact: ~25,000 tCO₂ emissions saved across system lifetime.
 
@@ -38,7 +38,7 @@ highest-yielding projects in our early portfolio.
 - NPV: £12.06M.
 
 - Annual GPU Revenue (Yr 1): £1.13M, growing annually at ~6% GPU leasing
-  index.
+; index.
 
 - Energy Export Revenue (Yr 1): £20k+.
 
@@ -47,7 +47,7 @@ highest-yielding projects in our early portfolio.
 ## Timeline
 
 - Pre-Funding Stage: August 2025 – final technical, feasibility, and
-  legal approvals secured.
+; legal approvals secured.
 
 - Deployment: 3–3.5 months post-funding.
 
@@ -64,15 +64,15 @@ highest-yielding projects in our early portfolio.
 - Long-Term PPA Contracts: Securing stable clean-energy cashflows.
 
 - Asset-Backed: Entire project ring-fenced in a UAE SPV, with assets
-  fully collateralised.
+; fully collateralised.
 
 - Scalability: Blueprint for larger GCC deployments (Saudi, Oman, Abu
-  Dhabi).
+; Dhabi).
 
 - Environmental Impact: Integrates clean power, displaces fossil-fuel
-  compute, and generates verifiable carbon credits.
+; compute, and generates verifiable carbon credits.
 
-✨ The Dubai flagship is designed as EcoYield’s showcase project —
+✨ The Dubai flagship is designed as EcoYield’s showcase project 
 pairing the world’s most in-demand compute with sustainable,
 revenue-generating infrastructure in one of the fastest-growing AI hubs
 globally.

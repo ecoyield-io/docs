@@ -1,4 +1,4 @@
-# Terminology — Glossary of Key Terms
+# Terminology; Glossary of Key Terms
 
 EcoYield bridges the worlds of renewable infrastructure and
 decentralised finance. To make our model accessible, here is a clear
@@ -35,7 +35,7 @@ project for AI compute + renewables.
 
 ## TGE (Token Generation Event)
 
-The formal launch of EcoYield’s \$EYE token, when allocations are
+The formal launch of EcoYield’s $EYE token, when allocations are
 unlocked and become transferable. TGE ensures liquidity and confidence
 but is only one part of EcoYield’s growth plan.
 
@@ -47,7 +47,7 @@ systems use PPAs to lock in predictable revenues.
 
 ## DAO (Decentralised Autonomous Organisation)
 
-A community-led governance system where \$EYE holders vote on protocol
+A community-led governance system where $EYE holders vote on protocol
 decisions such as new project vaults, treasury allocation, and ecosystem
 partnerships.
 
@@ -64,7 +64,7 @@ reducing friction for global investors.
 
 ## Buyback
 
-When the EcoYield treasury uses protocol fees to purchase \$EYE tokens
+When the EcoYield treasury uses protocol fees to purchase $EYE tokens
 from the market, supporting token value and rewarding stakers.
 
 ✨ Why This Matters: By making terms simple and transparent, EcoYield

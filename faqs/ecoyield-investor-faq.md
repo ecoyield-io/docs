@@ -2,10 +2,10 @@
 
 ## General & How It Works
 
-- Q: What is the difference between LP tokens and \$EYE tokens?
+- Q: What is the difference between LP tokens and $EYE tokens?
 
 A: LP tokens represent a share of a specific project’s revenues (GPU
-leasing + renewable energy). \$EYE is the governance and utility token,
+leasing + renewable energy). $EYE is the governance and utility token,
 used for staking, APY boosts, and DAO participation.
 
 - Q: How do I invest in EcoYield?
@@ -21,13 +21,13 @@ contribution once pilot projects go live.
 
 - Q: What happens if a project underperforms?
 
-A: Investor yield adjusts accordingly — revenues are shared pro-rata.
+A: Investor yield adjusts accordingly; revenues are shared pro-rata.
 Mitigation includes PPAs, diversified GPU leasing, and insurance where
 possible.
 
 - Q: Is my investment secured or collateralised?
 
-A: Yes — projects are structured through SPVs. Assets (GPUs, solar,
+A: Yes; projects are structured through SPVs. Assets (GPUs, solar,
 batteries) sit in those SPVs, ring-fenced from EcoYield’s parent entity.
 
 - Q: What’s the exit path without a TGE?
@@ -53,9 +53,9 @@ A: Each project is owned by a dedicated SPV (Special Purpose Vehicle),
 managed by EcoYield but ring-fenced to protect investor interests.
 
 - Q: Do token-holders have enforceable legal rights to the underlying
-  assets?
+; assets?
 
-A: No — token holders do not own the hardware directly. Their rights are
+A: No; token holders do not own the hardware directly. Their rights are
 tied to revenue flows secured via smart contracts.
 
 - Q: What happens if EcoYield defaults?
@@ -64,9 +64,9 @@ A: SPVs remain operational. Vault token rights to revenue streams
 continue even if the parent company faces difficulties.
 
 - Q: How are external investor contributions recorded on the balance
-  sheet?
+; sheet?
 
-A: As project financing obligations of the SPV — not debt or equity of
+A: As project financing obligations of the SPV; not debt or equity of
 EcoYield Ltd.
 
 - Q: Are vault tokens classed as securities?
@@ -82,14 +82,14 @@ off-chain agreements exist between SPVs and the EcoYield Foundation.
 
 ## Token & Structure
 
-- Q: Who is the legal issuer of the \$EYE and vault tokens?
+- Q: Who is the legal issuer of the $EYE and vault tokens?
 
-A: \$EYE is issued by the EcoYield Foundation (Panama/BVI). Vault tokens
+A: $EYE is issued by the EcoYield Foundation (Panama/BVI). Vault tokens
 are issued by individual SPVs tied to projects.
 
-- Q: What is the investment case for \$EYE?
+- Q: What is the investment case for $EYE?
 
-A: \$EYE provides governance rights, yield boosts via staking, priority
+A: $EYE provides governance rights, yield boosts via staking, priority
 access to new vaults, and upside from buybacks driven by protocol fees.
 
 - Q: How do you ensure payouts cannot be unilaterally changed?
@@ -98,15 +98,15 @@ A: Vault smart contracts are non-custodial. Any change to yield
 mechanics requires DAO approval.
 
 - Q: Will presale investors receive LP tokens once pilot projects go
-  live?
+; live?
 
-A: Yes — presale investors are first in line for LP allocations
+A: Yes; presale investors are first in line for LP allocations
 proportional to their early contribution.
 
-- Q: What happens to my \$EYE if I sell my LP tokens (or vice versa)?
+- Q: What happens to my $EYE if I sell my LP tokens (or vice versa)?
 
 A: They function independently: LP tokens entitle you to yield, while
-\$EYE boosts APY and provides governance. You can hold one, both, or
+$EYE boosts APY and provides governance. You can hold one, both, or
 neither.
 
 ## Financial & Risk
@@ -118,7 +118,7 @@ performance skim on project revenues.
 
 - Q: Is there a repayment obligation like a loan?
 
-A: No — this is a revenue-share model, not debt. Yield continues as long
+A: No; this is a revenue-share model, not debt. Yield continues as long
 as the project produces revenue.
 
 - Q: How does EcoYield manage risks?
@@ -138,9 +138,9 @@ creating an additional ESG-aligned revenue stream.
 
 ## Governance & Control
 
-- Q: Does holding \$EYE give real governance power or is it symbolic?
+- Q: Does holding $EYE give real governance power or is it symbolic?
 
-A: Real power. \$EYE holders vote on vault approvals, treasury
+A: Real power. $EYE holders vote on vault approvals, treasury
 allocation, protocol upgrades, and partnerships.
 
 - Q: What decisions can the DAO vote on?
@@ -150,7 +150,7 @@ reinvestment, carbon credit integration, ecosystem deals.
 
 - Q: How is voting power weighted between large and small holders?
 
-A: Voting is proportional to staked \$EYE, with caps and safeguards
+A: Voting is proportional to staked $EYE, with caps and safeguards
 (e.g., quorum thresholds) to prevent whale domination.
 
 - Q: What safeguards exist against bad governance or manipulation?
@@ -163,9 +163,9 @@ vaults reduce systemic risk.
 - Q: What is the long-term roadmap for scaling EcoYield?
 
 A: Presale → TGE → Leeds pilot → Dubai flagship → global expansion (UK,
-EU, GCC) → DAO treasury governance → \$1bn+ AUM by 2030.
+EU, GCC) → DAO treasury governance → $1bn+ AUM by 2030.
 
-- Q: How do you plan to reach \$1bn+ AUM by 2030?
+- Q: How do you plan to reach $1bn+ AUM by 2030?
 
 A: By scaling modular GPU + renewable projects globally, compounding
 TVL, and integrating institutional capital.
@@ -177,7 +177,7 @@ exits while maintaining on-chain transparency.
 
 - Q: Can EcoYield be acquired or IPO in the future?
 
-A: Yes — EcoYield could evolve into a publicly listed or acquired
+A: Yes; EcoYield could evolve into a publicly listed or acquired
 infrastructure platform, while the DAO continues managing decentralised
 vaults.
 
@@ -214,12 +214,12 @@ As with any technology, obsolescence is a factor. EcoYield mitigates
 this by:
 
 - Leasing into both enterprise contracts and decentralised marketplaces
-  (balancing demand sources).
+; (balancing demand sources).
 
 - Maintaining upgrade cycles in the financial model.
 
 - Diversifying project revenue with renewable energy sales, which remain
-  stable regardless of GPU lifecycle.
+; stable regardless of GPU lifecycle.
 
 **Are spare GPUs or redundancy built into operations?**
 

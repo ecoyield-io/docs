@@ -1,4 +1,4 @@
-# Investor ROI Calculator — Guide to Use
+# Investor ROI Calculator; Guide to Use
 
 The EcoYield Investor ROI Calculator is a purpose-built tool designed to
 help prospective and current investors understand the potential
@@ -9,37 +9,37 @@ and long-term returns.
 
 ## Key Features
 
-\- Customisable Inputs: Enter your intended investment amount, token
-tier, and presale stage.  
+- Customisable Inputs: Enter your intended investment amount, token
+tier, and presale stage.
 - Automatic ROI Projections: See projected returns based on presale
-discounts, token appreciation, and project yield distribution.  
+discounts, token appreciation, and project yield distribution.
 - Tier-Based Scenarios: Compare different presale tiers and how they
-impact ROI (e.g. Private Seed at \$0.015 vs. Presale Tier 1 at
-\$0.025).  
+impact ROI (e.g. Private Seed at $0.015 vs. Presale Tier 1 at
+$0.025).
 - Vault Yield Integration: Model LP token allocations and expected APY
-from project vaults (25–35% typical).  
+from project vaults (25–35% typical).
 - Equity Add-On (if applicable): Certain rounds include equity exposure,
-which can also be modelled.  
+which can also be modelled.
 - Exit Strategy Options: Factor in vesting, lock-ups, and potential
 redemption/buyback pathways.
 
 ## How to Use
 
 1\. Download the Calculator: Provided in Excel format within the
-EcoYield data room.  
+EcoYield data room.
 2. Input Investment Details: Enter the USD (or GBP/ETH equivalent)
-amount you are considering.  
+amount you are considering.
 3. Select Presale Tier: Choose your entry point (Private Round, Presale
-Tier 1, Tier 2, etc.).  
+Tier 1, Tier 2, etc.).
 4. Review Token Allocation: The sheet automatically calculates your
-token quantity at the given tier price.  
+token quantity at the given tier price.
 5. Add Vault Participation (Optional): Enter % of investment you plan to
-allocate to LP vaults and view projected APY returns.  
-6. Review Outputs:  
+allocate to LP vaults and view projected APY returns.
+6. Review Outputs:
 - Total token upside (based on tier progression and indicative TGE
-price).  
-- Annualised yield from LP vault participation.  
-- Blended ROI combining equity, tokens, and yield.  
+price).
+- Annualised yield from LP vault participation.
+- Blended ROI combining equity, tokens, and yield.
 7. Adjust Assumptions: Explore different market scenarios to stress-test
 your expectations.
 
