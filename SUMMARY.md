@@ -2,80 +2,93 @@
 
 ## Introduction
 
-* [Vision & Mission](introduction/vision_and_mission.md)
+* [Vision & Mission](README.md)
 * [What is EcoYield?](introduction/what_is_ecoyield.md)
-* [Why GPUs Matter; The Engine of the AI Revolution](introduction/ecoyield_why_gpus_matter.md)
 * [Why Now?](introduction/why_now_ecoyield.md)
+* [Why GPUs Matter](introduction/ecoyield_why_gpus_matter.md)
 
 ## How it works
 
+* [Step-by-Step Flow](how-it-works/step_by_step_flow.md)
 * [Collateralisation & Guarantees](how-it-works/collateralisation_and_guarantees.md)
 * [How Investments Are Vetted](how-it-works/how_investments_are_vetted.md)
-* [Pre-Sale Participation; Early Access to Yield](how-it-works/pre_sale_participation.md)
-* [Step-by-Step Flow](how-it-works/step_by_step_flow.md)
+* [Pre-Sale Participation](how-it-works/pre-sale-participation.md)
 
 ## EcoYield Model & Flywheel
-* [Environmental Impact](ecoyield-model-and-flywheel/ecoyield-environmental-impact.md)
-* [Revenue Streams](ecoyield-model-and-flywheel/ecoyield-revenue-streams.md)
+
 * [The Real Yield Flywheel](ecoyield-model-and-flywheel/ecoyield-the-real-yield-flywheel.md)
+* [Revenue Streams](ecoyield-model-and-flywheel/ecoyield-revenue-streams.md)
+* [Environmental Impact](ecoyield-model-and-flywheel/ecoyield-environmental-impact.md)
 
 ## Roadmap
-* [✅ Milestones Achieved](roadmap/ecoyield-milestones-achieved.md)
-* [🚀 Roadmap; Phase-by-Phase Timeline](roadmap/ecoyield-roadmap-phase-by-phase.md)
+
+* [Roadmap](roadmap/ecoyield-roadmap-phase-by-phase.md)
+* [Milestones Achieved](roadmap/ecoyield-milestones-achieved.md)
 * [Upcoming Milestones](roadmap/ecoyield-upcoming-milestones.md)
 
 ## Tokenomics
-* [$EYE Token Utility; Governance, Yield Boosts, Access Priority](tokenomics/eye-token-utility.md)
+
+* [$EYE Token Utility](tokenomics/eye-token-utility.md)
+* [LP Tokens](tokenomics/ecoyield-lp-tokens.md)
+* [Presale Structure](tokenomics/ecoyield-presale-structure.md)
 * [Allocation & Vesting / Unlocking](tokenomics/ecoyield-allocation-vesting.md)
 * [Fee Structure](tokenomics/ecoyield-fee-structure.md)
-* [LP Tokens; Yield-Bearing, Asset-Backed Vault Allocations](tokenomics/ecoyield-lp-tokens.md)
-* [Presale Structure; Tiered Pricing & Scarcity Model](tokenomics/ecoyield-presale-structure.md)
 
 ## Governance (DAO)
-* [What the DAO Governs; Vaults, Treasury, Partnerships, Fees](governance-dao/ecoyield-dao-governs.md)
-* [DAO Vision; Why Phased Decentralisation Matters](governance-dao/ecoyield-dao-vision.md)
-* [Phased DAO Rollout; Foundation → Advisory → Community → Treasury DAO](governance-dao/ecoyield-phashed-dao-rollout.md)
-* [Safeguards; Multisig, Veto, Cooldowns, Insurance Vaults](governance-dao/ecoyield-safeguards.md)
-* [Voting Power ($EYE); Token-Based Proposals & Quorum](governance-dao/ecoyield-voting-power.md)
+
+* [DAO Vision](governance-dao/ecoyield-dao-vision.md)
+* [Phased DAO Rollout](governance-dao/ecoyield-phashed-dao-rollout.md)
+* [What the DAO Governs](governance-dao/ecoyield-dao-governs.md)
+* [Voting Power ($EYE)](governance-dao/ecoyield-voting-power.md)
+* [Safeguards](governance-dao/ecoyield-safeguards.md)
 
 ## Financial Model & Yield
-* [How Yield is Generated; GPU Leasing + Clean Energy](financial-model-and-yield/ecoyield-how-yield-is-generated.md)
-* [Investor ROI Calculator; Guide to Use](financial-model-and-yield/ecoyield-investor-roi-calculator-guide.md)
-* [Pilot Project IRRs; Leeds & Dubai](financial-model-and-yield/ecoyield-pilot-project-irrs.md)
-* [Treasury Management; Buybacks, Emissions, Reinvestment](financial-model-and-yield/ecoyield-treasury-management.md)
+
+* [How Yield is Generated](financial-model-and-yield/ecoyield-how-yield-is-generated.md)
+* [Pilot Project IRRs](financial-model-and-yield/ecoyield-pilot-project-irrs.md)
+* [Investor ROI Calculator](financial-model-and-yield/ecoyield-investor-roi-calculator-guide.md)
+* [Treasury Management](financial-model-and-yield/ecoyield-treasury-management.md)
 
 ## Compliance & Legal
+
+* [Entity Structure](compliance-and-legal/ecoyield-entity-structure.md)
+* [KYC/AML Process](compliance-and-legal/ecoyield-kyc-aml-tiered-access.md)
+* [MiCA Alignment](compliance-and-legal/mica-alignment.md)
 * [Collateral & Guarantees](compliance-and-legal/collateral-and-guarantees.md)
-* [Entity Structure; Panama Foundation, BVI SPV, UAE HQ](compliance-and-legal/ecoyield-entity-structure.md)
-* [KYC/AML Process; Tiered Access](compliance-and-legal/ecoyield-kyc-aml-tiered-access.md)
-* [Terms & Conditions; Participation Rules and Risk Disclosures](compliance-and-legal/ecoyield-terms-and-conditions.md)
-* [MiCA Alignment; Fit within EU RWA Regulation](compliance-and-legal/mica-alignment.md)
-* [Privacy Policy; Data Handling](compliance-and-legal/privacy-policy-data-handling.md)
+* [Privacy Policy](compliance-and-legal/privacy-policy-data-handling.md)
+* [Terms & Conditions](compliance-and-legal/ecoyield-terms-and-conditions.md)
 
 ## Projects & Pipeline
-* [Dubai UAE Flagship Project](projects-and-pipeline/dubai-uae-flagship-project.md)
-* [Future Pipeline; Scaling to $1B AUM by 2030](projects-and-pipeline/ecoyield-future-pipeline.md)
+
 * [Leeds, UK Pilot Project](projects-and-pipeline/leeds-uk-pilot-project.md)
+* [Dubai UAE Flagship Project](projects-and-pipeline/dubai-uae-flagship-project.md)
+* [Future Pipeline](projects-and-pipeline/ecoyield-future-pipeline.md)
 
 ## Community & Ecosystem
-* [Community Growth & Awareness](community-and-ecosystem/ecoyield-community-growth-awareness.md)
-* [Partnerships; AI Compute & Renewable Providers](community-and-ecosystem/ecoyield-gitbook-partnerships.md)
+
 * [How to Participate](community-and-ecosystem/how-to-participate.md)
-* [Incentives; Early Vouchers, Referral Schemes, Staking Boosts](community-and-ecosystem/incentives-ecoyield.md)
+* [Incentives](community-and-ecosystem/incentives-ecoyield.md)
+* [Partnerships](community-and-ecosystem/ecoyield-gitbook-partnerships.md)
+* [Community Growth & Awareness](community-and-ecosystem/ecoyield-community-growth-awareness.md)
 
 ## Team & Advisors
-* [Partners](team-and-advisors/partners/README.md) * [Partners; Legal, Marketing, Infrastructure, Strategic Ecosystem](team-and-advisors/partners/ecoyield-partners.md)
+
+* [Partners \* Partners; Legal, Marketing, Infrastructure, Strategic Ecosystem](team-and-advisors/partners-partners-legal-marketing-infrastructure-strategic-ecosystem.md)
 
 ## Environmental & Impact Focus
-* [Carbon Credit Integration; ESG-Aligned Revenues](environmental-and-impact-focus/carbon-credit-integration-esg-aligned-revenues.md)
-* [🌍 Sustainability Principles; Renewable-First Deployments](environmental-and-impact-focus/ecoyield-gitbook-sustainability-principles.md)
-* [Impact Grants; DAO Treasury Allocation to Sustainability Projects](environmental-and-impact-focus/impact-grants-ecoyield.md)
+
+* [Sustainability Principles](environmental-and-impact-focus/ecoyield-gitbook-sustainability-principles.md)
+* [Carbon Credit Integration](environmental-and-impact-focus/carbon-credit-integration-esg-aligned-revenues.md)
+* [Impact Grants](environmental-and-impact-focus/impact-grants-ecoyield.md)
 
 ## FAQs
+
 * [EcoYield – Investor FAQ](faqs/ecoyield-investor-faq.md)
 
 ## Terminology
+
 * [Terminology; Glossary of Key Terms](terminology/ecoyield-gitbook-terminology.md)
 
 ## Resources & Links
+
 * [Resources & Links](resources-and-links/ecoyield-resources-and-links.md)
