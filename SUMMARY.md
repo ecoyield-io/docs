@@ -83,11 +83,11 @@
 
 ## FAQs
 
-* [EcoYield – Investor FAQ](faqs/ecoyield-investor-faq.md)
+* [Investor FAQ](faqs/ecoyield-investor-faq.md)
 
 ## Terminology
 
-* [Terminology; Glossary of Key Terms](terminology/ecoyield-gitbook-terminology.md)
+* [Glossary of Key Terms](terminology/ecoyield-gitbook-terminology.md)
 
 ## Resources & Links
 
