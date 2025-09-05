@@ -33,6 +33,7 @@
 * [Presale Structure](tokenomics/ecoyield-presale-structure.md)
 * [Allocation & Vesting / Unlocking](tokenomics/ecoyield-allocation-vesting.md)
 * [Fee Structure](tokenomics/ecoyield-fee-structure.md)
+* [Staking, Multipliers & Access System](tokenomics/staking-multipliers-and-access-system.md)
 
 ## Governance (DAO)
 
