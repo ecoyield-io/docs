@@ -1,5 +1,7 @@
 # Roadmap
 
+<figure><img src="../.gitbook/assets/Roadmap v2.png" alt=""><figcaption></figcaption></figure>
+
 EcoYield’s growth plan is designed to balance speed, execution credibility, and investor confidence. Each phase builds on real infrastructure deployment, growing TVL, and progressive decentralisation through the EcoYield DAO.
 
 ## Phase 1 - Q3–Q4 2025: Foundation & Presale

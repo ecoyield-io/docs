@@ -16,8 +16,9 @@
 
 ## EcoYield Model & Flywheel
 
-* [The Real Yield Flywheel](ecoyield-model-and-flywheel/ecoyield-the-real-yield-flywheel.md)
 * [Revenue Streams](ecoyield-model-and-flywheel/ecoyield-revenue-streams.md)
+* [Yield Generation and Sharing](ecoyield-model-and-flywheel/yield-generation-and-sharing.md)
+* [The Real Yield Flywheel](ecoyield-model-and-flywheel/ecoyield-the-real-yield-flywheel.md)
 * [Environmental Impact](ecoyield-model-and-flywheel/ecoyield-environmental-impact.md)
 
 ## Roadmap
@@ -33,7 +34,8 @@
 * [Presale Structure](tokenomics/ecoyield-presale-structure.md)
 * [Allocation & Vesting / Unlocking](tokenomics/ecoyield-allocation-vesting.md)
 * [Fee Structure](tokenomics/ecoyield-fee-structure.md)
-* [Staking, Multipliers & Access System](tokenomics/staking-multipliers-and-access-system.md)
+* [Staking Multipliers](tokenomics/staking-multipliers.md)
+* [Staking Power](tokenomics/staking-power.md)
 
 ## Governance (DAO)
 

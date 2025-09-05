@@ -1,63 +1,44 @@
 # Allocation & Vesting / Unlocking
 
-EcoYield’s token distribution has been carefully designed to balance
-growth, sustainability, and long-term alignment between the team,
-investors, and community. Our model ensures no single group can dominate
-supply, while providing confidence that tokens unlock gradually in line
-with real project delivery.
+EcoYield’s total token supply is fixed at **1,000,000,000 $EYE**, with a fully diluted market cap of **$300M**. Tokens are allocated strategically across presale, ecosystem growth, team, and rewards to balance **capital raising, protocol adoption, and long-term alignment**.
 
-## 1. Allocation Overview
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-- Community & Presale Rounds; Majority of supply reserved for presale
-participants and the wider community through public vaults.
-- Ecosystem Growth; Allocations for future partnerships, liquidity
-initiatives, and ecosystem incentives.
-- Team & Advisors; Structured to align long-term, with multi-year
-vesting and cliffs to ensure delivery focus.
-- Treasury & DAO Reserve; To support future governance, protocol
-development, and buyback mechanisms.
-- Staking Rewards; Allocated for emissions, gradually tapering as
-protocol buybacks and revenues sustain yields.
+**Allocations:**
 
-## 2. Vesting & Unlocking Principles
+* **(Private) Seed Round – 10%**
+  * 6-month cliff, 24-month vesting.
+  * Designed to onboard strategic early backers.
+* **Public Presale – 30%**
+  * 12-month vesting, phased release via presale tiers.
+  * Creates scarcity and strong early-mover incentives.
+* **Ecosystem – 10%**
+  * 36-month vesting.
+  * Supports partnerships, integrations, and community incentives.
+* **Reserve – 10%**
+  * 12-month cliff, 36-month vesting.
+  * Strategic reserve for future opportunities.
+* **Liquidity (DEX & CEX) – 10%**
+  * 100% unlocked at TGE.
+  * Provides immediate trading liquidity and market support.
+* **Staking – 10%**
+  * 48-month linear vesting.
+  * Long-term reward pool to incentivise token holders and boost yields.
+* **Early LP Rewards – 5%**
+  * 25% unlocked at TGE, remainder over 12 months.
+  * Kickstarts vault participation and rewards early adopters.
+* **Team – 10%**
+  * 9-month cliff, 24-month vesting.
+  * Aligns the core team with long-term project growth.
+* **Advisors – 5%**
+  * 9-month cliff, 24-month vesting.
+  * Structured to ensure sustained involvement from key advisors.
 
-- No Pump-and-Dump: Unlocks are intentionally staged to prevent early
-dumping and protect long-term investors.
-- Cliffs for Team & Advisors: Tokens remain locked for an initial period
-(cliff) before vesting linearly over multiple years.
-- Gradual Release for Investors: Private and public presale allocations
-unlock progressively, ensuring alignment with project milestones.
-- Yield-First Approach: Unlocks are tied to protocol readiness and
-project deployment, not hype cycles.
+### Why This Matters
 
-## 3. Example Unlocking Schedule (Illustrative)
+* Long-Term Alignment: Vesting schedules for seed, team, and advisors prevent short-term flipping and keep everyone focused on long-term value.
+* Early Scarcity Drives Demand: Only a portion of tokens are unlocked at TGE, creating supply pressure and upside for early participants.
+* Sustainable Growth Engine: Staking, ecosystem, and LP rewards are structured to fuel adoption, participation, and network effects.
+* Built-In Flexibility: The reserve gives EcoYield the firepower to seize future strategic opportunities without diluting the tokenomics.
 
-- Presale Rounds:
-- Small % at TGE (to create early liquidity).
-- Remaining vested linearly over 12–18 months.
-
-- Team & Advisors:
-- 12-month cliff.
-- Vesting monthly over 36 months thereafter.
-
-- Staking Rewards:
-- Linearly vested over 48 months, supplemented by protocol buybacks.
-
-- Treasury & DAO:
-- Released progressively in line with governance activation and DAO
-treasury growth.
-
-## 4. Why This Matters
-
-EcoYield’s vesting design is built to:
-- Align incentives; Early backers share upside, but no group can
-dominate supply.
-- Protect investors; Gradual releases mitigate short-term volatility.
-- Reinforce credibility; Vesting mirrors real infrastructure build-out,
-not speculation.
-- Build trust; Investors know the project cannot “dump” supply;
-everything is structured, predictable, and tied to project delivery.
-
-EcoYield’s allocation and vesting model ensures
-fairness, stability, and alignment; keeping the protocol grounded in
-real-world yield and long-term growth, not hype.
+***
