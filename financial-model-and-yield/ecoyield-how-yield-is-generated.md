@@ -2,6 +2,8 @@
 
 EcoYield is designed to provide real yield; not speculative emissions or inflationary rewards. Every dollar of return comes from two tangible, revenue-backed sources:
 
+<figure><img src="../.gitbook/assets/Screenshot 2025-09-06 at 00.50.10.png" alt=""><figcaption></figcaption></figure>
+
 ## 1. GPU Leasing (Primary Yield Source)
 
 * EcoYield deploys modular GPU farms equipped with high-performance hardware (e.g. NVIDIA H100s).
@@ -27,5 +29,3 @@ EcoYield is designed to provide real yield; not speculative emissions or inflati
 * Additional upside comes from the $EYE token, which captures protocol performance fees and redistributes them via buybacks and staking rewards.
 
 The Result: EcoYield’s investors earn yield that is stable, transparent, and asset-backed; driven by global demand for AI compute and renewable energy, not speculation.
-
-<figure><img src="../.gitbook/assets/Screenshot 2025-09-06 at 00.36.14.png" alt=""><figcaption></figcaption></figure>
