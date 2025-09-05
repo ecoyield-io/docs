@@ -9,6 +9,7 @@
 
 ## How it works
 
+* [Project Lifecycle](how-it-works/project-lifecycle.md)
 * [Step-by-Step Flow](how-it-works/step_by_step_flow.md)
 * [Collateralisation & Guarantees](how-it-works/collateralisation_and_guarantees.md)
 * [How Investments Are Vetted](how-it-works/how_investments_are_vetted.md)
@@ -49,7 +50,6 @@
 
 * [How Yield is Generated](financial-model-and-yield/ecoyield-how-yield-is-generated.md)
 * [Pilot Project IRRs](financial-model-and-yield/ecoyield-pilot-project-irrs.md)
-* [Investor ROI Calculator](financial-model-and-yield/ecoyield-investor-roi-calculator-guide.md)
 * [Treasury Management](financial-model-and-yield/ecoyield-treasury-management.md)
 
 ## Compliance & Legal
