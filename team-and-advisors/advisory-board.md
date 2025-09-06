@@ -1,17 +1,5 @@
 # Advisory Board
 
-### Tarun Sukhani (USA)
-
-**Strategic Technology Advisor – Web3 & AI Infrastructure**
-
-Tarun is a globally respected technology strategist, serial entrepreneur, and AI expert with over 25 years of cross-disciplinary experience across fintech, blockchain, AI, and enterprise systems. Based in Kuala Lumpur, he is the Founder and CTO of Abundent, one of Malaysia’s leading EdTech and AI-driven consultancies, and has held CTO roles in both the US and Southeast Asia.
-
-Educated at the University of Chicago, UIUC, MIT, and Loyola GSB, Tarun combines world-class technical depth with hands-on product leadership and has overseen systems delivery across banking, energy, logistics, and public sectors. He has built and scaled startups, led $100M+ enterprise projects, and served as a lead trainer and consultant for global clients in blockchain, data science, and DevOps.
-
-At EcoYield, Tarun provides senior strategic support across token architecture, technical due diligence, and AI integration—advising the founding team on best-in-class product frameworks and guiding the roadmap for sustainable Web3 infrastructure.\
-\
-
-
 ### Tony Drummond (USA)
 
 **Tokenomics & Economics Design Advisor**
@@ -32,6 +20,16 @@ Christopher is a capital markets expert and early pioneer in the tokenization of
 Prior to MC2, Christopher held leadership roles across structured finance and investment banking, where he specialised in bridging off-chain assets into regulated and scalable investment vehicles. He has advised multiple Web3 and fintech projects on RWA infrastructure, go-to-market, and investor strategy – with a sharp focus on compliance, liquidity design, and token issuance frameworks.
 
 At EcoYield, Christopher advises on capital strategy, fund structuring, and institutional-grade RWA onboarding. His insights ensure our project remains aligned with both crypto-native innovation and the expectations of serious investors seeking exposure to clean energy through on-chain investment rails.
+
+
+
+### Tarun Sukhani (USA)
+
+**Strategic Technology Advisor – Web3 & AI Infrastructure**
+
+Tarun is a globally respected technology strategist, serial entrepreneur, and AI expert with over 25 years of cross-disciplinary experience across fintech, blockchain, AI, and enterprise systems. Based in Kuala Lumpur, he is the Founder and CTO of Abundent, one of Malaysia’s leading EdTech and AI-driven consultancies, and has held CTO roles in both the US and Southeast Asia.\
+Educated at the University of Chicago, UIUC, MIT, and Loyola GSB, Tarun combines world-class technical depth with hands-on product leadership and has overseen systems delivery across banking, energy, logistics, and public sectors. He has built and scaled startups, led $100M+ enterprise projects, and served as a lead trainer and consultant for global clients in blockchain, data science, and DevOps.\
+At EcoYield, Tarun provides senior strategic support across token architecture, technical due diligence, and AI integration—advising the founding team on best-in-class product frameworks and guiding the roadmap for sustainable Web3 infrastructure.
 
 
 
