@@ -72,6 +72,7 @@
 ## Team & Advisors
 
 * [EcoYield Team](team-and-advisors/ecoyield-team.md)
+* [Advisory Board](team-and-advisors/advisory-board.md)
 * [Partners \* Partners; Legal, Marketing, Infrastructure, Strategic Ecosystem](team-and-advisors/partners-partners-legal-marketing-infrastructure-strategic-ecosystem.md)
 
 ## Environmental & Impact Focus

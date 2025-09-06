@@ -43,7 +43,6 @@ At EcoYield, Michael oversees all real-world project feasibility and technical m
 
 Olivia brings deep expertise in international corporate law, compliance, and Web3 regulatory structuring to EcoYield. With a background in guiding blockchain startups through complex multi-jurisdictional frameworks, she advises on DAO setup, token compliance, offshore structuring, and corporate governance. Her guidance ensures EcoYield’s legal foundations are robust, investor-ready, and aligned with evolving global standards, supporting the platform’s credibility and long-term scalability.
 
-\
 
 
 ### Hussain Zulfiqar (PK)
@@ -78,7 +77,7 @@ Edward "Woody" Briggs is a Product Leader with over a decade of experience drivi
 
 **Head of Marketing**
 
-Joe is a professional marketer with a Web3 background running the marketing and communities for many successful projects. Passions include Arsenal FC, renewables and AI.
+Joe is a professional marketer with a strong background in Web3, having led marketing and community efforts across multiple high-growth blockchain and decentralised finance (DeFi) projects. With a foundation in client-facing roles in both Web2 and Web3, Joe brings a people-first approach to communication, investor relations, and user engagement. He has experience managing large Telegram and Discord communities, coordinating token launches, and creating content strategies that resonate with both retail users and institutional stakeholders. His past work includes handling inbound investor communications, shaping brand narratives, and overseeing the growth of active online communities into trusted spaces for information and support. Joe is passionate about emerging technologies, with particular interest in renewables, AI, and the evolving intersection between decentralised infrastructure and real-world impact. Away from the screen, he’s a devoted Arsenal FC fan and a firm believer in tech as a force for good.
 
 
 
@@ -89,55 +88,3 @@ Joe is a professional marketer with a Web3 background running the marketing and 
 Maarten is a seasoned project leader and Web3 business strategist with over a decade of experience across traditional finance, renewable energy, and blockchain ventures. As founder of Van Houtem Business Consulting, he has led complex infrastructure and digital transformation projects for blue-chip clients in Europe, and more recently scaled operations in Web3, securing over $250K in OTC funding and driving token market caps from $800K to $100M+.\
 At EcoYield, Maarten bridges the traditional and crypto finance worlds, leveraging deep institutional networks and regulatory experience. He plays a critical role in business development, investor relations, and strategic partnerships, helping scale EcoYield’s platform and connect high-quality real-world assets to decentralised capital.
 
-
-
-Advisory Board\
-
-
-
-### Tarun Sukhani (USA)
-
-**Strategic Technology Advisor – Web3 & AI Infrastructure**
-
-Tarun is a globally respected technology strategist, serial entrepreneur, and AI expert with over 25 years of cross-disciplinary experience across fintech, blockchain, AI, and enterprise systems. Based in Kuala Lumpur, he is the Founder and CTO of Abundent, one of Malaysia’s leading EdTech and AI-driven consultancies, and has held CTO roles in both the US and Southeast Asia.
-
-Educated at the University of Chicago, UIUC, MIT, and Loyola GSB, Tarun combines world-class technical depth with hands-on product leadership and has overseen systems delivery across banking, energy, logistics, and public sectors. He has built and scaled startups, led $100M+ enterprise projects, and served as a lead trainer and consultant for global clients in blockchain, data science, and DevOps.
-
-At EcoYield, Tarun provides senior strategic support across token architecture, technical due diligence, and AI integration—advising the founding team on best-in-class product frameworks and guiding the roadmap for sustainable Web3 infrastructure.\
-\
-
-
-### Tony Drummond (USA)
-
-**Tokenomics & Economics Design Advisor**
-
-Tony Drummond is a leading voice in tokenomics design, with over a decade of experience advising top-tier Web3 startups, DAOs, and real-world asset (RWA) platforms. As the founder of[ Tokenomics DAO](https://tokenomics.net/), he has led over 90+ token economic designs across protocols managing billions in market cap, bringing deep expertise in aligning token utility with long-term sustainability and community incentives.
-
-Tony’s work blends behavioural economics, game theory, and Web3 market design to create resilient economic systems that scale. He is a sought-after educator, writer, and speaker in the tokenomics space, having consulted for DeFi protocols, NFT ecosystems, and cross-chain infrastructure projects.
-
-At EcoYield, Tony is the architect of our economic engine – responsible for designing the core $EYE token model, investor yield mechanics, and incentive alignment across our DAO, staking architecture, and RWA vaults. His experience ensures EcoYield’s economic framework is both technically sound and investor-credible, built for long-term traction in an increasingly competitive RWA market.\
-
-
-### Christopher Richter (DE)
-
-**Strategic Advisor – Capital Markets & RWA Structuring**
-
-Christopher is a capital markets expert and early pioneer in the tokenization of real-world assets (RWAs), with a decade of experience at the intersection of traditional finance and decentralised finance. Based in Germany, he is the founder of MC2 Finance, a platform enabling wealth managers and asset managers to launch on-chain portfolios with institutional-grade tools.
-
-Prior to MC2, Christopher held leadership roles across structured finance and investment banking, where he specialised in bridging off-chain assets into regulated and scalable investment vehicles. He has advised multiple Web3 and fintech projects on RWA infrastructure, go-to-market, and investor strategy – with a sharp focus on compliance, liquidity design, and token issuance frameworks.
-
-At EcoYield, Christopher advises on capital strategy, fund structuring, and institutional-grade RWA onboarding. His insights ensure our project remains aligned with both crypto-native innovation and the expectations of serious investors seeking exposure to clean energy through on-chain investment rails.
-
-
-
-### Roman Shportko (UA)
-
-**AI Advisor – Autonomous Systems & Scalable Intelligence**
-
-Roman is a leading voice in AI-native Web3 innovation, with deep expertise in building autonomous, intelligent systems that power next-generation platforms. As founder of Sensay and Charged Ventures, he is at the forefront of AI x DeFi convergence — designing infrastructure where machine learning drives capital allocation, governance, and protocol evolution.
-
-With a background in AI strategy, autonomous agents, and decentralised decision-making, Roman brings a rare blend of technical depth and visionary thinking. His work focuses on building platforms that think, adapt, and scale themselves — reducing human bottlenecks while increasing transparency and trust.
-
-At EcoYield, Roman advises on AI integration strategy to help transform the platform into a truly autonomous climate yield engine. From self-optimising vault logic and intelligent DAO tooling to on-chain impact oracles, Roman’s vision will guide EcoYield’s evolution into a scalable, intelligent, and globally deployable clean energy protocol — where automation accelerates both performance and impact.
-
-\
