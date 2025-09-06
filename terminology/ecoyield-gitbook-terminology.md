@@ -46,6 +46,10 @@ A financial metric used to measure the profitability of EcoYield’s projects (e
 
 Regulatory checks that verify investor identities and prevent misuse of funds. EcoYield uses tiered, lightweight KYC to stay compliant while reducing friction for global investors.
 
+## Fee Hurdle (Performance Benchmark)
+
+The minimum annual return that EcoYield projects must exceed before step‑up performance fees apply. The benchmark is set by the DAO and reviewed quarterly; it reflects the average net yield of comparable clean‑energy and GPU‑leasing projects in OECD markets. For every 1 percentage point a project’s net yield exceeds this benchmark, the performance fee increases by 0.5 percentage points.
+
 ## Buyback
 
 When the EcoYield treasury uses protocol fees to purchase $EYE tokens from the market, supporting token value and rewarding stakers.

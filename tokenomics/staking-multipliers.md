@@ -28,14 +28,14 @@ This ensures short-term stakers still benefit, but long-term lockers gain a bigg
 
 Every new project raise is split into two stages:
 
-#### Stage 1: Core Pool (Priority Access)
+#### Stage 1: Core Vault (Priority Access)
 
 * Reserved for existing LPs and $EYE stakers.
 * Allocation is distributed pro-rata by Stake Score.
 * Example: if you hold 10% of the total Stake Score, you’re entitled to 10% of the Stage-1 allocation.
 * Any unused allocation rolls into Stage-2.
 
-#### Stage 2: Public Pool (Open Access)
+#### Stage 2: Public Vault (Open Access)
 
 * Open to new LPs and the wider market.
 * Allocations distributed pro-rata by cash contributed.
