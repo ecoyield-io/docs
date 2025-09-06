@@ -45,18 +45,6 @@ Olivia brings deep expertise in international corporate law, compliance, and Web
 
 
 
-### Hussain Zulfiqar (PK)
-
-**Token Launch & Capital Strategy**
-
-Hussain is a proven Web3 growth strategist and two-time founder with a track record of building and scaling blockchain startups across DeFi, AI, and infrastructure sectors. As former Chief Marketing Officer of Grindery Ai, he drove growth from zero to 4 million users, led influencer campaigns with 300+ KOLs, managed a $50K/month marketing budget, and secured $5M in VC funding — including backing from Binance Labs and IDG Capital.
-
-He also held roles at One Click Crypto and Sino Global Capital (Ryze Labs), where he led user acquisition, strategic integrations, and ecosystem growth, working with Tier 1 projects like LayerZero, Arbitrum, and Sui.
-
-At EcoYield, Hussain spearheads global growth strategy, early investor relations, and Web3 marketing campaigns — connecting EcoYield with venture capital networks, crafting high-impact go-to-market strategies, and building a scalable, engaged community from day one.
-
-
-
 ### Marcus Baxendale (UK)
 
 **Commercial Director**
