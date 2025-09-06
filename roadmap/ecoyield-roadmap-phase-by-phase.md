@@ -1,3 +1,7 @@
+---
+icon: timeline-arrow
+---
+
 # Roadmap
 
 <figure><img src="../.gitbook/assets/Roadmap v2.png" alt=""><figcaption></figcaption></figure>

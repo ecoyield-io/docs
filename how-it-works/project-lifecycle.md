@@ -7,21 +7,25 @@ description: >-
 
 # Project Lifecycle
 
-1.  Submission & Review
+### Submission & Review
 
-    Projects are submitted to the DAO and reviewed for eligibility. An independent feasibility study (technical, financial, and compliance checks) ensures viability before approval.
-2.  Funding
+Projects are submitted to the DAO and reviewed for eligibility. An independent feasibility study (technical, financial, and compliance checks) ensures viability before approval.
 
-    Once approved, projects are listed on the EcoYield platform for investors to commit capital. If the funding target is not reached, LPs are refunded.
-3.  Preparation
+### Funding
 
-    When the target is met, EcoYield collects a small structuring fee and sets up the project SPV. Equipment is procured and installed, preparing the project to go live.
-4.  Yield Generation
+Once approved, projects are listed on the EcoYield platform for investors to commit capital. If the funding target is not reached, LPs are refunded.
 
-    The project begins generating dual yield from GPU leasing and renewable energy sales. Yields are distributed to LP token holders. EcoYield charges a performance fee, which is split evenly between $EYE token buybacks and the protocol treasury.
-5.  Impact & Metrics
+### Preparation
 
-    The success of each project is measured by:\
+When the target is met, EcoYield collects a small structuring fee and sets up the project SPV. Equipment is procured and installed, preparing the project to go live.
+
+### Yield Generation
+
+The project begins generating dual yield from GPU leasing and renewable energy sales. Yields are distributed to LP token holders. EcoYield charges a performance fee, which is split evenly between $EYE token buybacks and the protocol treasury.
+
+### Impact & Metrics
+
+The success of each project is measured by:\
 
 
 * TVL: Growth in committed capital.

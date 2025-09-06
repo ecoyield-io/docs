@@ -9,10 +9,9 @@
 
 ## How it works
 
-* [Project Lifecycle](how-it-works/project-lifecycle.md)
 * [Step-by-Step Flow](how-it-works/step_by_step_flow.md)
-* [Collateralisation & Guarantees](how-it-works/collateralisation_and_guarantees.md)
 * [How Investments Are Vetted](how-it-works/how_investments_are_vetted.md)
+* [Project Lifecycle](how-it-works/project-lifecycle.md)
 * [Pre-Sale Participation](how-it-works/pre-sale-participation.md)
 
 ## EcoYield Model & Flywheel
@@ -37,6 +36,7 @@
 * [Fee Structure](tokenomics/ecoyield-fee-structure.md)
 * [Staking Multipliers](tokenomics/staking-multipliers.md)
 * [Staking Power](tokenomics/staking-power.md)
+* [Treasury Management](tokenomics/ecoyield-treasury-management.md)
 
 ## Governance (DAO)
 
@@ -45,12 +45,6 @@
 * [What the DAO Governs](governance-dao/ecoyield-dao-governs.md)
 * [Voting Power ($EYE)](governance-dao/ecoyield-voting-power.md)
 * [Safeguards](governance-dao/ecoyield-safeguards.md)
-
-## Financial Model & Yield
-
-* [How Yield is Generated](financial-model-and-yield/ecoyield-how-yield-is-generated.md)
-* [Pilot Project IRRs](financial-model-and-yield/ecoyield-pilot-project-irrs.md)
-* [Treasury Management](financial-model-and-yield/ecoyield-treasury-management.md)
 
 ## Compliance & Legal
 
@@ -63,6 +57,7 @@
 
 ## Projects & Pipeline
 
+* [Pilot Project IRRs](projects-and-pipeline/ecoyield-pilot-project-irrs.md)
 * [Leeds, UK Pilot Project](projects-and-pipeline/leeds-uk-pilot-project.md)
 * [Dubai UAE Flagship Project](projects-and-pipeline/dubai-uae-flagship-project.md)
 * [Future Pipeline](projects-and-pipeline/ecoyield-future-pipeline.md)
@@ -76,6 +71,7 @@
 
 ## Team & Advisors
 
+* [EcoYield Team](team-and-advisors/ecoyield-team.md)
 * [Partners \* Partners; Legal, Marketing, Infrastructure, Strategic Ecosystem](team-and-advisors/partners-partners-legal-marketing-infrastructure-strategic-ecosystem.md)
 
 ## Environmental & Impact Focus

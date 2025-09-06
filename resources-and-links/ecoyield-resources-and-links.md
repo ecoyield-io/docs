@@ -1,3 +1,7 @@
+---
+icon: link
+---
+
 # Resources & Links
 
 This section provides quick access to EcoYield’s core resources official channels, investor materials, and technical documentation. It also highlights where our internal team needs to insert final links and files as they are published.

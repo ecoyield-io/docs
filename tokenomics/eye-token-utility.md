@@ -1,3 +1,7 @@
+---
+icon: badge-check
+---
+
 # $EYE Token Utility
 
 The $EYE token is the governance and incentive layer of EcoYield. Unlike speculative tokens, $EYE derives its value from real-world infrastructure, yield flows, and protocol growth. It is designed to reward long-term participants, align incentives, and ensure the sustainable expansion of EcoYield’s platform.

@@ -6,7 +6,7 @@ EcoYield’s fee model is designed to make the protocol sustainable, align our s
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-06 at 00.44.24.png" alt=""><figcaption></figcaption></figure>
 
-#### 1. Funding (Structuring) Fee
+### 1. Funding (Structuring) Fee
 
 Every project has legal and operational costs that must be covered before a single kilowatt-hour of energy is produced or a GPU goes online.
 
@@ -25,7 +25,7 @@ Think of this like a set-up fee: the project pays EcoYield for unlocking the cap
 
 ***
 
-#### 2. Performance Fee
+### 2. Performance Fee
 
 EcoYield only earns when projects are generating yield. The performance fee ensures our incentives are directly tied to investor returns.
 
@@ -43,12 +43,12 @@ This means EcoYield only earns more when you earn more — our performance fee g
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-06 at 00.47.24.png" alt=""><figcaption></figcaption></figure>
 
-#### 3. Feasibility Study Fee
+### 3. Feasibility Study Fee
 
 Every project must be vetted before launch. These checks are carried out by independent engineering and financial firms, not EcoYield.
 
 * Who pays: Project developers.
-* What it covers: Technical feasibility, financial modeling, environmental and planning checks.
+* What it covers: Technical feasibility, financial modelling, environmental and planning checks.
 * Why excluded: Since this fee is paid to third-party specialists, it is not part of EcoYield’s revenue model.
 
 \
@@ -56,7 +56,7 @@ This ensures that every project is technically sound and financially viable befo
 
 ***
 
-#### 4. Withdrawal Fees
+### 4. Withdrawal Fees
 
 We believe in low friction.
 
@@ -68,7 +68,7 @@ This open-access approach builds trust and confidence for both retail and instit
 
 ***
 
-### Why This Matter
+### Why This Matters
 
 EcoYield’s fee model has been designed to be fair, transparent, and growth-oriented:
 
