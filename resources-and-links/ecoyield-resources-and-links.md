@@ -9,9 +9,8 @@ This section provides quick access to EcoYield’s core resources official chann
 ## Official Channels
 
 * [Website](https://ecoyield.io)
-* [Twitter/X](ecoyield-resources-and-links.md)
-* [Telegram Community](ecoyield-resources-and-links.md)
-* [GitHub Repository](https://github.com/ecoyield-io)
+* [Twitter/X](https://x.com/eco_yield/)
+* [Telegram Community](https://t.me/ecoyieldio)
 * [Investor Relations Contact](https://form.typeform.com/to/QeJHB8H0)
 
 ## Investor Collateral
