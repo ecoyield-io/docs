@@ -43,13 +43,7 @@ At EcoYield, Michael oversees all real-world project feasibility and technical m
 
 Olivia brings deep expertise in international corporate law, compliance, and Web3 regulatory structuring to EcoYield. With a background in guiding blockchain startups through complex multi-jurisdictional frameworks, she advises on DAO setup, token compliance, offshore structuring, and corporate governance. Her guidance ensures EcoYield’s legal foundations are robust, investor-ready, and aligned with evolving global standards, supporting the platform’s credibility and long-term scalability.
 
-
-
-### Thomas Kevers (BE)
-
-**Chief Operating Officer (COO)**
-
-A seasoned blockchain and technology executive with over 20 years of global leadership experience, Thomas brings deep operational and strategic expertise to EcoYield. Formerly VP of Programs & Operations at the Mina Foundation and Tribe Lead at Cardano’s Atala PRISM, he has led high-impact delivery across Web3 infrastructure, ZK technology, and decentralised identity. His strengths lie in scaling early-stage ventures, aligning cross-functional KPIs, optimising program execution, and driving strategic partnerships. At EcoYield, Thomas oversees operations, product roadmap execution, and cross-team coordination to ensure timely delivery, scalability, and investor readiness.\
+\
 
 
 ### Hussain Zulfiqar (PK)
