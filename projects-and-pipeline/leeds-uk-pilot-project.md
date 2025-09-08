@@ -21,7 +21,7 @@ barrels of oil)
 ## Financials
 
 - Funding Requirement: £400,000
-- Gross IRR: 35.29%
+- Gross IRR: 31%
 - Projected Payback: ~3 years
 - Estimated First-Year Electricity Savings: ~£35,190
 - LCOE (Levelised Cost of Energy): ~£0.07 per kWh

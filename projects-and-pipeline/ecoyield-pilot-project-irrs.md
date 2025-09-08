@@ -8,7 +8,7 @@ EcoYield’s pilot projects provide the first proof points for our yield model, 
 
 ## Leeds, UK; AI Compute + Solar (Pilot Site)
 
-* IRR (Gross): 35.29%
+* IRR (Gross): 31%
 * Deployment: 10 GPU modular compute units + 150kW rooftop solar.
 * Funding Requirement: £400,000.
 * Status: Land secured, planning permission and grid connection in place, ready to deploy in 6 weeks post-funding.
@@ -17,7 +17,7 @@ EcoYield’s pilot projects provide the first proof points for our yield model, 
 
 ## Dubai, UAE; AI Compute + Solar + Battery Storage (Flagship Project)
 
-* IRR (Gross): 43.40%
+* IRR (Gross): 27%
 * Deployment: 100 GPU modular compute units + 800kW solar farm + 2MWh battery energy storage system (BESS).
 * Funding Requirement: £3.25M.
 * Status: Site identified, feasibility studies completed, 18-week deployment timeline.
