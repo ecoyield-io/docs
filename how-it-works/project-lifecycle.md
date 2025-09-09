@@ -1,11 +1,6 @@
----
-description: >-
-  Every EcoYield project follows a clear, transparent lifecycle from proposal to
-  yield distribution. This ensures that capital is only deployed into
-  high-quality, thoroughly vetted infrastructure projec
----
-
 # Project Lifecycle
+
+Every EcoYield project follows a clear, transparent lifecycle from proposal to yield distribution. This ensures that capital is only deployed into high-quality, thoroughly vetted infrastructure projects.
 
 ### Submission & Review
 
