@@ -37,6 +37,14 @@ He began his career as a renewable heating engineer and went on to lead UK techn
 At EcoYield, Michael oversees all real-world project feasibility and technical modelling. He ensures every asset listed on the platform meets stringent engineering, compliance, and financial criteria. Using industry-leading simulation tools, he produces precision-driven forecasts that underpin investor trust and long-term asset performance. His oversight is critical to de-risking the EcoYield portfolio and translating complex energy infrastructure into bankable, on-chain investment opportunities.\
 
 
+### Kye Barwell
+
+**Technical Design Engineer**
+
+Kye holds a Master’s degree in Renewable Energy Engineering and brings strong technical expertise to EcoYield’s project delivery team. At EcoYield, Kye focuses on the technical and design aspects of renewable energy projects, ensuring that each scheme is optimised for performance, reliability, and long term value. With a background rooted in engineering design and feasibility assessment, Kye applies advanced modelling tools to develop accurate forecasts and robust technical solutions. His work is central to de-risking projects and supporting EcoYield’s mission to turn complex energy infrastructure into viable, investable opportunities.
+
+
+
 ### Sophie Kendall (UK/UAE)&#x20;
 
 **Legal & Compliance Advisor – Corporate Structuring & Governance**
