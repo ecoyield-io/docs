@@ -27,9 +27,9 @@ EcoYield generates sustainable, real-world income through four core revenue stre
 
 * EcoYield’s renewable projects generate certified carbon credits.
 * These credits can be:
-* Monetised by selling to corporates with net-zero obligations.
-* Retired within the ecosystem to boost ESG credentials.
-* Carbon credits add a third cashflow channel while reinforcing EcoYield’s climate-positive mission.
+  * Monetised by selling to corporates with net-zero obligations.
+  * Retired within the ecosystem to boost ESG credentials.
+  * Carbon credits add a third cashflow channel while reinforcing EcoYield’s climate-positive mission.
 
 ## 4. Protocol Fees (EcoYield Treasury Revenue)
 
