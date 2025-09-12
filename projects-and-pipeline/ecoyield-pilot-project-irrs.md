@@ -6,6 +6,16 @@ icon: solar-panel
 
 EcoYield’s pilot projects provide the first proof points for our yield model, combining AI compute + renewable energy infrastructure. Each project has been fully modelled with feasibility studies, IRR projections, and deployment timelines.
 
+
+
+## **NHS London, UK; Deployment Ready EV Charging Station - NHS UK**
+
+* IRR: 27%
+* Deployment: 15x 7kW AC EV chargers Funding Requirement: £33,000.
+* Status: NHS site secured, electrical load assessment complete, infrastructure design finalised. Ready to deploy within 8–10 weeks post-funding.
+* Revenue Drivers: EV charging tariffs (staff + public), 20% revenue share with NHS Trust
+* Purpose: Proves the EcoYield model in a high-visibility NHS setting + high yield for token holders.
+
 ## Leeds, UK; AI Compute + Solar (Pilot Site)
 
 * IRR (Gross): 31%

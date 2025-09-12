@@ -6,7 +6,7 @@ EcoYield is designed to ensure that investor funds are always tied to real-world
 
 **SPV Ownership & Ring-Fencing**
 
-* Each project (e.g., Leeds Pilot, Dubai Flagship) is owned through a dedicated Special Purpose Vehicle (SPV)
+* Each project (e.g., NHS London, Leeds Pilot, Dubai Flagship) is owned through a dedicated Special Purpose Vehicle (SPV)
 * Investor capital flows into the SPV, which directly owns the land lease, solar panels, batteries, GPUs, and revenue contracts
 * This ensures clear asset ownership, cashflow traceability, and separation from the parent company's balance sheet
 * In the unlikely case of corporate distress, the underlying project remains protected and ring-fenced

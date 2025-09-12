@@ -13,7 +13,7 @@ EcoYield’s growth plan is designed to balance speed, execution credibility, an
 * Private Seed Round & Public Presale (10-phase tiered structure).
 * Investor incentives: early presale funds tied directly to pilot project deployment, with LP allocations distributed upon project go-live.
 * Token Generation Event (TGE) immediately after presale close → ensures liquidity and market confidence.
-* First pilot project: Leeds, UK (10 GPUs + 150kW solar).
+* First pilot projects: NHS London (15x 7kW EV Chargers) and Leeds, UK (10 GPUs + 150kW solar).
 * DAO multisig governance begins for core operations.
 
 ## Phase 2 - Q1–Q2 2026: Flagship Deployment (UAE)
