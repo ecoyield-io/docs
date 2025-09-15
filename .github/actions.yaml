@@ -1,0 +1,45 @@
+name: Deploy to Cloudflare R2
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          # We need to fetch the previous commit for comparison
+          fetch-depth: 2 
+
+      - name: Get Changed Files (excluding .gitbook)
+        id: changed-files
+        run: |
+          # Use git diff with a pathspec to exclude the .gitbook folder
+          # The ':(exclude)' syntax tells git to explicitly ignore patterns
+          ADDED_MODIFIED_RENAMED_FILES=$(git diff --name-only --diff-filter=AMR HEAD^ HEAD -- ':!**/.gitbook/**')
+          
+          # Trim whitespace and newlines, then print the list for debugging
+          echo "Found the following changes:"
+          echo "$ADDED_MODIFIED_RENAMED_FILES"
+          
+          # Set the output variable to be used in the next step
+          echo "files=$ADDED_MODIFIED_RENAMED_FILES" >> $GITHUB_OUTPUT
+
+      # - name: Cloudflare Wrangler Action
+      #   uses: cloudflare/wrangler-action@v3
+      #   with:
+      #     apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      #     accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      #     command: |
+      #       if [ -n "${{ steps.changed-files.outputs.files }}" ]; then
+      #         for FILE_PATH in ${{ steps.changed-files.outputs.files }}; do
+      #           echo "Uploading $FILE_PATH to R2..."
+      #           wrangler r2 object put my-r2-bucket/$FILE_PATH --file $FILE_PATH
+      #         done
+      #       else
+      #         echo "No new or modified files to upload."
+      #       fi
