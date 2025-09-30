@@ -28,7 +28,7 @@ The Dubai flagship project represents EcoYield’s largest deployment to date an
 * Funding Requirement: $3.65M (£3.0M approx.) .
 * Year 1 GPU Leasing Revenue: $1.296M (based on $2.50/hr, 80% utilisation).
 * Year 1 Solar Export Revenue: \~$20k+.
-* Gross IRR: \~30% (base case).
+* Gross IRR: \~30%&#x20;
 * Payback Period: \~2.6 years.
 * NPV (25 yrs): £12M+.
 * Cumulative Net Cashflow (25 yrs): \~£43.5M  .
