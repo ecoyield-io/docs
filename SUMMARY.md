@@ -71,6 +71,7 @@
 ## Projects & Pipeline
 
 * [Pilot Project IRRs](projects-and-pipeline/ecoyield-pilot-project-irrs.md)
+* [NHS London, UK Pilot Project](projects-and-pipeline/nhs-london-uk-pilot-project.md)
 * [Leeds, UK Pilot Project](projects-and-pipeline/leeds-uk-pilot-project.md)
 * [Dubai UAE Flagship Project](projects-and-pipeline/dubai-uae-flagship-project.md)
 * [Future Pipeline](projects-and-pipeline/ecoyield-future-pipeline.md)

@@ -40,7 +40,7 @@ A community-led governance system where $EYE holders vote on protocol decisions 
 
 ## IRR (Internal Rate of Return)
 
-A financial metric used to measure the profitability of EcoYield’s projects (e.g., Leeds IRR = 31%, Dubai IRR = 27%).
+A financial metric used to measure the profitability of EcoYield’s projects, typically presented as gross internal rate of return before other fees.
 
 ## KYC/AML (Know Your Customer / Anti-Money Laundering)
 

@@ -23,8 +23,8 @@ To access these please [register interest](https://form.typeform.com/to/QeJHB8H0
 * Whitepaper / Litepaper
 * Explainer Video Deck
 
-## Financial & Tokenomics Models
+## Financial Models, Pilot Project Data and MVP
 
-* [Tokenomics Model](https://docs.google.com/spreadsheets/d/1NioBB4WPLsKgsI65P1A9Oqfj93uc6fWE8nJGkn55p3c/edit?usp=sharing)
-* [Financial Model + Individual Project IRRs](https://docs.google.com/spreadsheets/d/11IrWvCA_GQpWzET8zeyN5p-VOmoRLPatxvrxNOLBUIc/edit?gid=261542544#gid=261542544)
-* [Investor ROI Calculator](https://docs.google.com/spreadsheets/d/1Unl6TEL4e1WPGMtgPSLNc1-cT8U28kyinzDRTAIa7e4/edit?gid=101637727#gid=101637727)
+* [Financial Model + Individual Project IRRs](https://drive.google.com/drive/folders/16ySCsSUEpjJ9CjfU40Qrs9GmiaRbH8y1?usp=sharing)
+* [Investor ROI Calculator](https://ecoyield.io/) (see website)
+* [MVP Demo Link](https://www.figma.com/proto/FAFarfPNHsJJYKuW1JtwQj/EcoYield-MVP?content-scaling=fixed\&kind=proto\&node-id=70-4426\&page-id=1%3A21\&scaling=min-zoom\&starting-point-node-id=324%3A6681)
