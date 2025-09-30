@@ -9,13 +9,15 @@ This section provides quick access to EcoYield’s core resources official chann
 ## Official Channels
 
 * [Website](https://ecoyield.io)
+* [Discord](https://t.co/ncuW7ebDEp)
 * [Twitter/X](https://x.com/eco_yield/)
 * [Telegram Community](https://t.me/ecoyieldio)
 * [Investor Relations Contact](https://form.typeform.com/to/QeJHB8H0)
+* [Link Tree](https://linktr.ee/ecoyieldio)
 
 ## Investor Collateral
 
-To access these please [register interest](https://form.typeform.com/to/QeJHB8H0) to our Data Room
+To access these please [register interest](https://form.typeform.com/to/QeJHB8H0)&#x20;
 
 * Pitch Decks & One-Pagers
 * Whitepaper / Litepaper
