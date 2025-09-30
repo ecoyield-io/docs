@@ -54,6 +54,19 @@
 * [Collateral & Guarantees](compliance-and-legal/collateral-and-guarantees.md)
 * [Privacy Policy](compliance-and-legal/privacy-policy-data-handling.md)
 * [Terms & Conditions](compliance-and-legal/ecoyield-terms-and-conditions.md)
+* [Legal Documentation](compliance-and-legal/legal-documentation/README.md)
+  * [UAE Legal Documentation Hub](compliance-and-legal/legal-documentation/uae-legal-documentation-hub.md)
+  * [BVI / SPV Legal Documentation Hub](compliance-and-legal/legal-documentation/bvi-spv-legal-documentation-hub/README.md)
+    * [BVI Privacy policy](compliance-and-legal/legal-documentation/bvi-spv-legal-documentation-hub/bvi-privacy-policy.md)
+    * [BVI / SPV Risk Disclosure Statement](compliance-and-legal/legal-documentation/bvi-spv-legal-documentation-hub/bvi-spv-risk-disclosure-statement.md)
+    * [BVI / SPV Terms of Service](compliance-and-legal/legal-documentation/bvi-spv-legal-documentation-hub/bvi-spv-terms-of-service.md)
+    * [BVI / SPV Usage Guide](compliance-and-legal/legal-documentation/bvi-spv-legal-documentation-hub/bvi-spv-usage-guide.md)
+  * [Panama Legal Documentation Hub](compliance-and-legal/legal-documentation/panama-legal-documentation-hub/README.md)
+    * [Panama Privacy Policy](compliance-and-legal/legal-documentation/panama-legal-documentation-hub/panama-privacy-policy.md)
+    * [Panama Risk Disclosure Statement](compliance-and-legal/legal-documentation/panama-legal-documentation-hub/panama-risk-disclosure-statement.md)
+    * [Panama Terms of Service](compliance-and-legal/legal-documentation/panama-legal-documentation-hub/panama-terms-of-service.md)
+    * [Panama Usage Guide](compliance-and-legal/legal-documentation/panama-legal-documentation-hub/panama-usage-guide.md)
+  * [Trademarks](compliance-and-legal/legal-documentation/trademarks.md)
 
 ## Projects & Pipeline
 
