@@ -30,7 +30,7 @@
 ## Tokenomics
 
 * [$EYE Token Utility](tokenomics/eye-token-utility.md)
-* [LP Tokens](tokenomics/ecoyield-lp-tokens.md)
+* [Yield Tokens](tokenomics/ecoyield-lp-tokens.md)
 * [Presale Structure](tokenomics/ecoyield-presale-structure.md)
 * [Allocation & Vesting / Unlocking](tokenomics/ecoyield-allocation-vesting.md)
 * [Fee Structure](tokenomics/ecoyield-fee-structure.md)

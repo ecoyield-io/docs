@@ -13,7 +13,7 @@ EcoYield is designed with long-term compliance in mind. As the EU’s Markets in
 ### a. Token Classification
 
 * $EYE Token → Governance and utility token, not marketed as a financial security.
-* LP Tokens → Represent participation in yield-bearing vaults. These are structured with collateralisation and transparency to meet MiCA’s requirements for “asset-referenced tokens.”
+* Yield Tokens → Represent participation in yield-bearing vaults. These are structured with collateralisation and transparency to meet MiCA’s requirements for “asset-referenced tokens.”
 
 ### b. Disclosure & Transparency
 
@@ -29,7 +29,7 @@ EcoYield is designed with long-term compliance in mind. As the EU’s Markets in
 
 ### d. Custody & Asset Backing
 
-* All LP token vaults directly collateralised by real-world renewable and compute infrastructure.
+* All Yield Token vaults directly collateralised by real-world renewable and compute infrastructure.
 * Project-level SPVs ensure ring-fencing of assets, protecting investor claims.
 
 ## 3. Benefits for Investors

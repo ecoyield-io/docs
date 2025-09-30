@@ -6,9 +6,9 @@ icon: circle-question
 
 ## General & How It Works
 
-* Q: What is the difference between LP tokens and $EYE tokens?
+* Q: What is the difference between Yield Tokens and $EYE Tokens?
 
-A: LP tokens represent a share of a specific project’s revenues (GPU leasing + renewable energy). $EYE is the governance and utility token, used for staking, APY boosts, and DAO participation.
+A: Yield Tokens represent a share of a specific project’s revenues (GPU leasing + renewable energy). $EYE is the governance and utility token, used for staking, APY boosts, and DAO participation.
 
 * Q: How do I invest in EcoYield?
 
@@ -16,7 +16,7 @@ A: Investors can join via the presale or by depositing stablecoins (e.g., USDC) 
 
 * Q: When do I start earning yield?
 
-A: Yield begins once the underlying project is deployed and generating revenue. Presale investors receive LP tokens proportionate to their contribution once pilot projects go live.
+A: Yield begins once the underlying project is deployed and generating revenue. Presale investors receive Yield Tokens proportionate to their contribution once pilot projects go live.
 
 * Q: What happens if a project underperforms?
 
@@ -28,7 +28,7 @@ A: Yes; projects are structured through SPVs. Assets (GPUs, solar, batteries) si
 
 * Q: What’s the exit path without a TGE?
 
-A: Investors can still exit through LP token redemption at maturity or via secondary LP markets (planned in future phases).
+A: Investors can still exit through Yield Token redemption at maturity or via secondary Yield Token markets (planned in future phases).
 
 * Q: How transparent is the project reporting?
 
@@ -78,13 +78,13 @@ A: $EYE provides governance rights, yield boosts via staking, priority access to
 
 A: Vault smart contracts are non-custodial. Any change to yield mechanics requires DAO approval.
 
-* Q: Will presale investors receive LP tokens once pilot projects go live?
+* Q: Will presale investors receive Yield Tokens once pilot projects go live?
 
-A: Yes; presale investors are first in line for LP allocations proportional to their early contribution.
+A: Yes; presale investors are first in line for Yield Token allocations proportional to their early contribution.
 
-* Q: What happens to my $EYE if I sell my LP tokens (or vice versa)?
+* Q: What happens to my $EYE if I sell my Yield Tokens (or vice versa)?
 
-A: They function independently: LP tokens entitle you to yield, while $EYE boosts APY and provides governance. You can hold one, both, or neither.
+A: They function independently: Yield Tokens entitle you to yield, while $EYE boosts APY and provides governance. You can hold one, both, or neither.
 
 ## Financial & Risk
 
@@ -136,9 +136,9 @@ A: Presale → TGE → Leeds pilot → Dubai flagship → global expansion (UK, 
 
 A: By scaling modular GPU + renewable projects globally, compounding TVL, and integrating institutional capital.
 
-* Q: How will secondary markets for LP tokens work?
+* Q: How will secondary markets for Yield Tokens work?
 
-A: Future phases will support peer-to-peer LP trading, enabling early exits while maintaining on-chain transparency.
+A: Future phases will support peer-to-peer Yield Token trading, enabling early exits while maintaining on-chain transparency.
 
 * Q: Can EcoYield be acquired or IPO in the future?
 

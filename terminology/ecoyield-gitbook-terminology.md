@@ -10,9 +10,9 @@ EcoYield bridges the worlds of renewable infrastructure and decentralised financ
 
 The total amount of capital (e.g., stablecoins) deposited into EcoYield’s vaults. Higher TVL = stronger protocol scale and credibility.
 
-## LP Tokens (Liquidity Provider Tokens)
+## Yield Tokens (Liquidity Provider Tokens)
 
-Digital tokens investors receive when depositing into EcoYield vaults. LP tokens represent ownership of real-world infrastructure projects (GPU farms + renewable energy). They entitle holders to proportional yield flows.
+Digital tokens investors receive when depositing into EcoYield vaults. Yield tokens represent ownership of real-world infrastructure projects (GPU farms + renewable energy). They entitle holders to proportional yield flows.
 
 ## APY (Annual Percentage Yield)
 

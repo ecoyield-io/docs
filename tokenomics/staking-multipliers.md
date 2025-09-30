@@ -4,12 +4,12 @@ EcoYield’s staking model is designed to reward long-term commitment while keep
 
 It does two things at once:
 
-1. Boosts yields for wallets that stake $EYE alongside LP tokens.
+1. Boosts yields for wallets that stake $EYE alongside Yield Tokens.
 2. Controls access to early project raises through a two-stage system.
 
 ### Staking & Yield Boosts
 
-When investors fund projects, they receive LP tokens (their share of the vault). By staking $EYE tokens in the same wallet, they can boost their yield and improve their access score.
+When investors fund projects, they receive Yield tokens (their share of the vault). By staking $EYE tokens in the same wallet, they can boost their yield and improve their access score.
 
 #### Staking Multipliers
 
@@ -30,16 +30,16 @@ Every new project raise is split into two stages:
 
 #### Stage 1: Core Vault (Priority Access)
 
-* Reserved for existing LPs and $EYE stakers.
+* Reserved for existing Yield Token Holders and $EYE stakers.
 * Allocation is distributed pro-rata by Stake Score.
 * Example: if you hold 10% of the total Stake Score, you’re entitled to 10% of the Stage-1 allocation.
 * Any unused allocation rolls into Stage-2.
 
 #### Stage 2: Public Vault (Open Access)
 
-* Open to new LPs and the wider market.
+* Open to new Yield Tokens and the wider market.
 * Allocations distributed pro-rata by cash contributed.
-* Existing LPs/stakers can also participate here, but on equal terms with new entrants.
+* Existing Yield Token holders/stakers can also participate here, but on equal terms with new entrants.
 
 This ensures:
 
