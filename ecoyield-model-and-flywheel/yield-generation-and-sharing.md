@@ -9,7 +9,7 @@ EcoYield vaults are the engine that convert real-world revenues (yield) into on-
   * AI model developers and LLM teams
   * Enterprise AI workloads
   * Decentralised GPU marketplaces (such as Render, Akash, Bittensor)
-* Leasing contracts generate predictable, high-demand cashflow, which flows back to EcoYield LP vaults
+* Leasing contracts generate predictable, high-demand cashflow, which flows back to Yield Token vaults
 * Target returns from GPU leasing are \~20–30% APY, creating the foundation for EcoYield's yield model
 
 ### 2. Clean Energy Revenue (Secondary Yield Source)
@@ -41,7 +41,7 @@ A small portion of project revenues goes to cover structuring and performance fe
 
 The remaining yield flows to investors based on their participation:
 
-* **LP token holders** receive their share of net project yield (after fees) in stablecoins
+* **Yield Token holders** receive their share of net project yield (after fees) in stablecoins
 * **$EYE stakers** unlock boosted rewards, including:
   * Stablecoins from project yield
   * Additional $EYE from buyback distributions
@@ -53,6 +53,6 @@ The remaining yield flows to investors based on their participation:
 
 **Dual Reinforcement**: Half of fees grow the treasury, strengthening the protocol's balance sheet. The other half buy back $EYE on the open market, reducing supply and enhancing long-term token value.
 
-**Investor Choice**: Every LP automatically earns project yield in stablecoins. By staking $EYE, investors can compound their returns further and gain governance rights over future vaults.
+**Investor Choice**: Every Yield Token automatically earns project yield in stablecoins. By staking $EYE, investors can compound their returns further and gain governance rights over future vaults.
 
 ###
