@@ -32,4 +32,8 @@ The success of each project is measured by:\
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-06 at 00.36.14.png" alt=""><figcaption></figcaption></figure>
 
-This process ensures that every dollar invested flows through a transparent, audited, and accountable cycle - aligning EcoYield’s growth directly with investor returns.
+***
+
+## Why This Matters
+
+EcoYield ensures that investor capital is only deployed into credible, viable, revenue-generating projects. This keeps the ecosystem transparent, protects Yield Tokens, and aligns long-term growth with community oversight.
