@@ -4,19 +4,19 @@ EcoYield rewards early participation and long-term commitment through a range of
 
 ## 1. Early Investor Incentives
 
-* Pre-sale participants receive priority LP allocations in the first pilot projects (e.g., NHS London, Leeds, Dubai).
-* By tying a portion of pre-sale funds directly to project deployment, early backers enjoy a first-mover advantage: once projects go live, they receive proportional LP tokens tied to yield-bearing infrastructure.
+* Pre-sale participants receive priority Yield Token allocations in the first pilot projects (e.g., NHS London, Leeds, Dubai).
+* By tying a portion of pre-sale funds directly to project deployment, early backers enjoy a first-mover advantage: once projects go live, they receive proportional Yield tokens tied to yield-bearing infrastructure.
 * This ensures early capital is rewarded with both discounted $EYE tokens and direct exposure to real-world project returns.
 
 ## 2. Referral Schemes
 
 * EcoYield will roll out a referral rewards programme to encourage organic community growth.
-* Participants who introduce new verified investors receive additional $EYE tokens or LP allocation boosts, depending on the stage of the campaign.
+* Participants who introduce new verified investors receive additional $EYE tokens or Yield Token allocation boosts, depending on the stage of the campaign.
 * This creates a network effect, where every supporter becomes an advocate for EcoYield, expanding reach and accelerating TVL growth.
 
 ## 3. Staking Boosts
 
-* Locking $EYE tokens not only increases governance power but also boosts APY on LP tokens.
+* Locking $EYE tokens not only increases governance power but also boosts APY on Yield Tokens.
 * Boost multipliers are based on lock-up duration (e.g., ×1.5 for 3 months, up to ×4 for 12 months).
 * Long-term stakers enjoy:
 * Higher yields from project vaults.

@@ -28,6 +28,6 @@ EcoYield’s DAO governance is designed to empower the community, but not at the
 
 * EcoYield establishes an insurance vault, funded from a portion of treasury revenue and performance fees.
 * The vault serves as a financial safety net in the rare case of project underperformance, technical issues, or black swan events.
-* Controlled by DAO governance, the insurance vault provides peace of mind to LP investors and underpins EcoYield’s credibility as a serious infrastructure protocol.
+* Controlled by DAO governance, the insurance vault provides peace of mind to Yield Token investors and underpins EcoYield’s credibility as a serious infrastructure protocol.
 
 EcoYield balances community-driven governance with risk-managed safeguards. By combining multisig security, temporary veto power, cooldown delays, and an insurance vault, we ensure that governance remains democratic without ever compromising investor protection.

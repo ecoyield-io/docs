@@ -17,9 +17,9 @@ The $EYE token is the governance and incentive layer of EcoYield. Unlike specula
 
 ## 2. Yield Boosts (APY Multipliers)
 
-* Locking $EYE tokens increases yield on LP vaults.
+* Locking $EYE tokens increases yield on Yield Token vaults.
 * Longer lock-ups = higher multipliers (e.g., 1.5× at 3 months, up to 4× at 12 months).
-* This ensures alignment: capital providers (LP holders) and token holders both benefit.
+* This ensures alignment: capital providers (Yield Token holders) and token holders both benefit.
 * Boosted APY rewards incentivise long-term holding and reduce sell pressure.
 
 ## 3. Access Priority to New Vaults
@@ -36,4 +36,4 @@ The $EYE token is the governance and incentive layer of EcoYield. Unlike specula
 
 ## Why It Matters for you
 
-$EYE is more than a speculative token. It is the gateway to governance, boosted yields, and privileged access. Together with LP tokens, it ensures that EcoYield scales as a transparent, yield-backed, and community-driven ecosystem.
+$EYE is more than a speculative token. It is the gateway to governance, boosted yields, and privileged access. Together with Yield Tokens, it ensures that EcoYield scales as a transparent, yield-backed, and community-driven ecosystem.

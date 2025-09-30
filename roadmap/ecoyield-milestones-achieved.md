@@ -23,7 +23,7 @@ EcoYield has already laid a strong foundation, proving this is not just an idea;
 
 * Completed detailed tokenomics model, vesting schedule, and fee structure.
 * Governance design finalised with phased DAO rollout (multisig → DAO activation → full treasury control).
-* Designed staking multipliers, LP vault structure, and buyback mechanisms.
+* Designed staking multipliers, Yield Token vault structure, and buyback mechanisms.
 
 ## 4. Team Formation
 
@@ -35,11 +35,11 @@ EcoYield has already laid a strong foundation, proving this is not just an idea;
 
 * Branding, naming rights, and core intellectual property secured.
 * Initial software and smart contract frameworks developed.
-* Unique presale LP token voucher mechanism designed.
+* Unique presale Yield Token voucher mechanism designed.
 
 ## 6. MVP Build
 
-* MVP platform build underway: LP vault dashboard + staking interface.
+* MVP platform build underway: Yield Token vault dashboard + staking interface.
 * Presale dashboard model complete, including tiered pricing and bonus structures.
 * Internal investor ROI calculators, financial models, and data room prepared.
 

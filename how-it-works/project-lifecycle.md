@@ -8,7 +8,7 @@ Projects are submitted to the DAO and reviewed for eligibility. An independent f
 
 ### Funding
 
-Once approved, projects are listed on the EcoYield platform for investors to commit capital. If the funding target is not reached, LPs are refunded.
+Once approved, projects are listed on the EcoYield platform for investors to commit capital. If the funding target is not reached, Yield Tokens are refunded.
 
 ### Preparation
 
@@ -16,7 +16,7 @@ When the target is met, EcoYield collects a small structuring fee and sets up th
 
 ### Yield Generation
 
-The project begins generating dual yield from GPU leasing and renewable energy sales. Yields are distributed to LP token holders. EcoYield charges a performance fee, which is split evenly between $EYE token buybacks and the protocol treasury.
+The project begins generating dual yield from GPU leasing and renewable energy sales. Yields are distributed to Yield Token holders. EcoYield charges a performance fee, which is split evenly between $EYE token buybacks and the protocol treasury.
 
 ### Impact & Metrics
 

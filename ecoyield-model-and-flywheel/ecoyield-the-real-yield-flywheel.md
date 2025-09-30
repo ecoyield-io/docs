@@ -11,7 +11,7 @@ EcoYield is designed as a self-reinforcing growth engine. Every new vault, proje
    2. Total Value Locked (TVL) rises, giving the protocol more deployment capital.
 2. More Yield
    1. Capital is deployed into GPU leasing + renewable energy projects.
-   2. Projects generate sustainable cashflow, producing 25–35% APY for LP token holders.
+   2. Projects generate sustainable cashflow, producing 25–35% APY for Yield Token holders.
 3. Stronger Brand
    1. Each project adds to EcoYield’s real-world credibility and performance history.
    2. Transparency + verified returns build investor trust.

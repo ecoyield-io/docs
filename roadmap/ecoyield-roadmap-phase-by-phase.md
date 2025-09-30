@@ -11,7 +11,7 @@ EcoYield’s growth plan is designed to balance speed, execution credibility, an
 ## Phase 1 - Q3–Q4 2025: Foundation & Presale
 
 * Private Seed Round & Public Presale (10-phase tiered structure).
-* Investor incentives: early presale funds tied directly to pilot project deployment, with LP allocations distributed upon project go-live.
+* Investor incentives: early presale funds tied directly to pilot project deployment, with Yield Token allocations distributed upon project go-live.
 * Token Generation Event (TGE) immediately after presale close → ensures liquidity and market confidence.
 * First pilot projects: NHS London (15x 7kW EV Chargers) and Leeds, UK (10 GPUs + 150kW solar).
 * DAO multisig governance begins for core operations.
@@ -19,7 +19,7 @@ EcoYield’s growth plan is designed to balance speed, execution credibility, an
 ## Phase 2 - Q1–Q2 2026: Flagship Deployment (UAE)
 
 * Deploy Dubai flagship project: 100 GPUs, 800kW solar + 2MWh battery.
-* Launch secondary markets for LP tokens → enabling liquidity and structured exits.
+* Launch secondary markets for Yield Tokens → enabling liquidity and structured exits.
 * Expand marketing flywheel (Coinpresso 3:1 ROAS + KOL partnerships) to accelerate TVL growth.
 * $EYE token live with staking + yield boost utility.
 
@@ -28,7 +28,7 @@ EcoYield’s growth plan is designed to balance speed, execution credibility, an
 * Rollout additional renewable-powered compute farms across the UK, UAE, and new geographies.
 * Explore corporate partnerships with AI labs and decentralised GPU networks (Render, Akash, Bittensor).
 * Carbon credit integration → projects generate certified credits for additional revenue.
-* Pilot LP secondary trading module and insurance vaults under DAO governance.
+* Pilot Yield Token secondary trading module and insurance vaults under DAO governance.
 
 ## Phase 4 - Q1–Q2 2027: DAO Expansion
 

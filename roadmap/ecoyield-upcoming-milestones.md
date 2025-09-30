@@ -5,7 +5,7 @@ EcoYield is entering its next phase of growth with a series of milestones design
 ## 1. First Yield Distributions (Q1–Q2 2026)
 
 * Pilot projects (Leeds, UK and Dubai, UAE) will begin generating yield from GPU leasing and clean energy sales.
-* LP token holders will receive their first stablecoin distributions, proving EcoYield’s real-world cashflow model.
+* Yield Token holders will receive their first stablecoin distributions, proving EcoYield’s real-world cashflow model.
 * Transparent on-chain reporting will validate gross IRRs against projections (\~25–35% APY).
 
 ## 2. Secondary Yield Token Markets (Q2–Q3 2026)

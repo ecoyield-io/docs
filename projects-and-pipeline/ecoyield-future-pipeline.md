@@ -12,7 +12,7 @@ EcoYield’s long-term growth strategy is built on replicating our proven model;
 
 * Short-Term (2025–2026): NHS London(UK) and Leeds (UK) pilot → Dubai flagship → Additional UK & EU sites under feasibility.
 * Medium-Term (2026–2028): Portfolio of 10–15 projects across UK, EU, and GCC, scaling GPU capacity into the thousands of H100 equivalents.
-* Long-Term (2028–2030): Global portfolio targeting $1B+ AUM, diversified across clean energy + AI compute, supported by tokenized LP vaults.
+* Long-Term (2028–2030): Global portfolio targeting $1B+ AUM, diversified across clean energy + AI compute, supported by tokenized vaults.
 
 ## Investor Value
 

@@ -13,8 +13,8 @@ EcoYield is designed to ensure that investor funds are always tied to real-world
 
 **Real Asset Collateralisation**
 
-* Every LP Token is backed by real-world infrastructure: GPU hardware, solar arrays, and battery systems
-* LP Tokens entitle holders to yield generated from GPU leasing contracts and clean energy sales
+* Every Yield Token is backed by real-world infrastructure: GPU hardware, solar arrays, and battery systems
+* Yield Tokens entitle holders to yield generated from GPU leasing contracts and clean energy sales
 * All deployments are backed by real infrastructure contracts including planning permissions, grid connections, PPAs, and GPU leases
 * On-chain proof ensures all vaults and project flows are transparent and auditable via smart contracts
 

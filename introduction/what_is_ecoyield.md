@@ -7,7 +7,7 @@ At its core, EcoYield builds modular, renewable-powered data centres that host h
 ## How Investors Benefit
 
 * Investors commit stablecoins into project vaults.
-* In return, they receive LP Tokens (backed by real infrastructure) and $EYE Tokens (governance + yield boosting)
+* In return, they receive Yield Tokens (backed by real infrastructure) and $EYE Tokens (governance + yield boosting)
 * Yield is generated from two streams:
   * GPU leasing revenue; from AI developers and networks.
   * Clean energy revenue; from solar + battery systems powering the sites, or sold to the grid via long-term PPAs.

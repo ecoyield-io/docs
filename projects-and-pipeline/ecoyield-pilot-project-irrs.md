@@ -23,7 +23,7 @@ EcoYield’s pilot projects provide the first proof points for our yield model, 
 * Funding Requirement: £400,000.
 * Status: Land secured, planning permission and grid connection in place, ready to deploy in 6 weeks post-funding.
 * Revenue Drivers: GPU leasing contracts, excess energy sales to the grid.
-* Purpose: Demonstrates the EcoYield model in a controlled UK market, creating the first vault for LP investors.
+* Purpose: Demonstrates the EcoYield model in a controlled UK market, creating the first vault for Yield Token investors.
 
 ## Dubai, UAE; AI Compute + Solar + Battery Storage (Flagship Project)
 

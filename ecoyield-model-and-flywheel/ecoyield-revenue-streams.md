@@ -4,7 +4,7 @@ icon: sitemap
 
 # Revenue Streams
 
-EcoYield generates sustainable, real-world income through four core revenue streams. These underpin the yields distributed to LP token holders and the long-term value of the $EYE ecosystem.
+EcoYield generates sustainable, real-world income through four core revenue streams. These underpin the yields distributed to Yield Token holders and the long-term value of the $EYE ecosystem.
 
 ## 1. GPU Leasing (Primary Revenue)
 

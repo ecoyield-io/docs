@@ -21,7 +21,7 @@ EcoYield’s DAO is designed to evolve gradually, ensuring that decentralisation
 * Transition to public DAO governance with transferable $EYE tokens.
 * Community proposal rights on vault launches, protocol changes, and ecosystem partnerships.
 * DAO treasury expands from performance fees, partially redirected into $EYE buybacks.
-* Secondary LP token market launched under DAO oversight.
+* Secondary Yield Token market launched under DAO oversight.
 * AI-powered community tools (proposal curation, voting simulations, treasury dashboards) enhance decision-making and transparency.
 
 ## Phase 4 - Treasury DAO (Q3–Q4 2027)
