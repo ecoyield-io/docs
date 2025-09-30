@@ -13,7 +13,7 @@ Backed by tangible infrastructure; not synthetic or inflationary models.
 ## 2. How Yield Tokens Generate Yield
 
 Cashflows come from GPU leasing (to AI firms, LLM developers, decentralised networks) and renewable energy sales (via PPAs or reduced OpEx).\
-Yield is distributed pro-rata in stablecoins (e.g., USDC), targeting 25–35% APY depending on project IRRs.\
+Yield is distributed pro-rata in stablecoins (e.g., USDC), targeting 20–30% APY depending on project IRRs.\
 $EYE staking can boost Yield Token returns further, rewarding committed participants.
 
 ## 3. Pre-Sale Investor Advantage

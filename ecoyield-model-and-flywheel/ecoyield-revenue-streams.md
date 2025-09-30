@@ -13,7 +13,7 @@ EcoYield generates sustainable, real-world income through four core revenue stre
 * AI companies and LLM developers.
 * Enterprise AI teams.
 * Decentralised GPU marketplaces (e.g. Render, Akash, Bittensor).
-* Leasing contracts create stable, high-demand cashflow, driving the protocol’s target yields of 25–35% APY.
+* Leasing contracts create stable, high-demand cashflow, driving the protocol’s target yields of 20–30% APY.
 
 ## 2. Renewable Energy Sales (Secondary Revenue)
 

@@ -12,7 +12,7 @@ At its core, EcoYield builds modular, renewable-powered data centres that host h
   * GPU leasing revenue; from AI developers and networks.
   * Clean energy revenue; from solar + battery systems powering the sites, or sold to the grid via long-term PPAs.
 
-This creates stable, asset-backed returns in the range of 25–35% APY, fully auditable and distributed on-chain.
+This creates stable, asset-backed returns in the range of 20–30% APY, fully auditable and distributed on-chain.
 
 ## Why It Matters
 

@@ -16,7 +16,7 @@ Digital tokens investors receive when depositing into EcoYield vaults. Yield tok
 
 ## APY (Annual Percentage Yield)
 
-The projected annual return for investors, factoring in compounding. EcoYield targets 25–35% APY depending on project IRRs and demand.
+The projected annual return for investors, factoring in compounding. EcoYield targets 20–30% APY depending on project IRRs and demand.
 
 ## RWA (Real-World Assets)
 

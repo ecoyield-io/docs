@@ -6,7 +6,7 @@ EcoYield is entering its next phase of growth with a series of milestones design
 
 * Pilot projects (Leeds, UK and Dubai, UAE) will begin generating yield from GPU leasing and clean energy sales.
 * Yield Token holders will receive their first stablecoin distributions, proving EcoYield’s real-world cashflow model.
-* Transparent on-chain reporting will validate gross IRRs against projections (\~25–35% APY).
+* Transparent on-chain reporting will validate gross IRRs against projections (\~20–30% APY).
 
 ## 2. Secondary Yield Token Markets (Q2–Q3 2026)
 

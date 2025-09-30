@@ -2,7 +2,7 @@
 
 EcoYield’s total token supply is fixed at **1,000,000,000 $EYE**, with a fully diluted market cap of **$300M**. Tokens are allocated strategically across presale, ecosystem growth, team, and rewards to balance **capital raising, protocol adoption, and long-term alignment**.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Allocations:**
 

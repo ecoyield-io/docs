@@ -24,7 +24,7 @@ Our mission is to:
 
 ## The Impact We Aim to Create
 
-1. For Investors: A new asset class that combines strong APYs (25–35%) with long-term upside from $EYE governance and equity.
+1. For Investors: A new asset class that combines strong APYs (20–30%) with long-term upside from $EYE governance and equity.
 2. For the Planet: Acceleration of renewable energy deployment, with carbon-neutral AI infrastructure as the standard.
 3. For Communities: Transparent, tokenised projects that allow anyone not just institutions; to share in the upside of clean energy and AI.
 4. For Web3: A flagship proof that RWAs can generate real yield, at scale, with clear governance, sustainability, and compliance at the core.

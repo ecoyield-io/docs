@@ -25,7 +25,7 @@ EcoYield is designed to be open and accessible, allowing both retail and institu
 
 * Investors deposit stablecoins (USDC/USDT) into project vaults.
 * In return, they receive Yield Tokens that represent their share of the vault and its revenues.
-* Yield Tokens are backed by real assets; GPU compute farms, solar, and battery systems; and yield is paid in stablecoins (target 25–35% APY).
+* Yield Tokens are backed by real assets; GPU compute farms, solar, and battery systems; and yield is paid in stablecoins (target 20-30% APY).
 * Over time, secondary markets for Yield Tokens will provide liquidity and structured exit options.
 
 ## 4. DAO Participation

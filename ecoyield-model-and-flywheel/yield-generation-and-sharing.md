@@ -10,7 +10,7 @@ EcoYield vaults are the engine that convert real-world revenues (yield) into on-
   * Enterprise AI workloads
   * Decentralised GPU marketplaces (such as Render, Akash, Bittensor)
 * Leasing contracts generate predictable, high-demand cashflow, which flows back to EcoYield LP vaults
-* Target returns from GPU leasing are \~25–35% APY, creating the foundation for EcoYield's yield model
+* Target returns from GPU leasing are \~20–30% APY, creating the foundation for EcoYield's yield model
 
 ### 2. Clean Energy Revenue (Secondary Yield Source)
 
