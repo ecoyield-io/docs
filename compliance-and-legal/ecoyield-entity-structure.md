@@ -1,7 +1,3 @@
----
-icon: arrows-to-circle
----
-
 # Entity Structure
 
 EcoYield is built on a multi-jurisdictional legal stack designed to balance compliance, operational efficiency, and investor confidence. This structure ensures that the protocol can scale globally while remaining aligned with regulatory expectations in key markets.

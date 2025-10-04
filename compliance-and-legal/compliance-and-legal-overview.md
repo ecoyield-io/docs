@@ -1,3 +1,7 @@
+---
+icon: scale-balanced
+---
+
 # Compliance & Legal Overview
 
 EcoYield operates under a multi-jurisdictional legal framework designed to ensure that all capital inflows, token sales, and project-vault operations comply with applicable securities, commodities, and digital-asset regulations.
