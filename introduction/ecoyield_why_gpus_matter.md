@@ -4,7 +4,7 @@ Artificial Intelligence (AI) is reshaping the world; from ChatGPT and self-drivi
 
 Unlike standard computer chips (CPUs), GPUs are specialised processors built to handle massive amounts of data in parallel. That makes them the perfect tool for training and running large language models (LLMs), generative AI, and advanced machine learning systems.
 
-## In today's market:
+## Today's Market:
 
 * Big Tech controls the supply. Google, Microsoft, Meta, and OpenAI are racing to lock up GPU supply for their own mega data centres.
 * Demand far outstrips supply. NVIDIA’s H100 chips are backordered for months, with single units selling for $30k–$40k.

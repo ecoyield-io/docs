@@ -24,7 +24,7 @@ EcoYield vaults are the engine that convert real-world revenues (yield) into on-
 
 The revenue distribution process follows a transparent, three-step mechanism:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### 1. Yield is Generated
 
