@@ -2,7 +2,7 @@
 
 EcoYield is designed as a self-reinforcing growth engine. Every new vault, project, and participant strengthens the ecosystem, creating a cycle of compounding demand and value.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## How the Flywheel Works
 

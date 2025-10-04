@@ -5,7 +5,7 @@ EcoYield’s staking mechanism balances fairness and incentives. Yield Tokens ca
 * EYE Power Ratio ensures wallets aren’t unfairly weighted by oversized $EYE stakes.
 * Stake Score blends Yield Tokens and $EYE power to rank contributors fairly.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Eye Power Ratio (Fairness Check)
 
