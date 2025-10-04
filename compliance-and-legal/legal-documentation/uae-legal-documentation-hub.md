@@ -16,10 +16,3 @@
 
 [Corporate Tax Registration Certificate (FZCO)](https://drive.google.com/file/d/1NtWcccoChBmEItO_uMJYPxYuBJektsE2/view?usp=drive_link)
 
-#### 5. Shareholder Resolutions
-
-[Shareholder Resolutions (FZCO)](https://drive.google.com/file/d/1iPf6mq2QSXwU2433C-lgDKsDk_rNXZ0c/view?usp=drive_link)
-
-#### 6. MOA - AOA
-
-[MOA - AOA](https://drive.google.com/file/d/1TjWRrefChOQevPR_3vwZKKlacuPkE3_a/view?usp=drive_link)

@@ -2,7 +2,9 @@
 
 #### 1. Company Formation Certificate
 
-[Company Formation Certificate](https://drive.google.com/file/d/13edVweNqEqovKUda8FqG47c5wiZ3ZZaj/view?usp=drive_link)
+{% file src="../../../.gitbook/assets/EcoYield Energy Foundation - Republic of Panama.pdf" %}
+&#x20;Company certificate of incorporation - EcoYield Energy Foundation
+{% endfile %}
 
 #### 2. Privacy Policy
 

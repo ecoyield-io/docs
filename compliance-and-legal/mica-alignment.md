@@ -50,4 +50,6 @@ EcoYield is built for the future of compliant Web3 infrastructure. By aligning w
 
 This legal opinion, issued by Legal Bison on June 12, 2025, reviews EcoYield’s $EYE Token under British Virgin Islands (BVI) regulations. It confirms alignment with current frameworks, supports EcoYield’s positioning for MiCA compliance, and provides our legal team’s formal approval and recommendations regarding securities classification and regulatory authorization requirements.
 
-Read the full document here: [Legal Opinion on EcoYield ](https://drive.google.com/file/d/1iIeXs3PiemIaxjvp0ZfarKKvpd6qbpfd/view?usp=sharing)
+Read the full document here:
+
+{% file src="../.gitbook/assets/Legal Opinion for ECOYIELD 12_062025OS.pdf" %}

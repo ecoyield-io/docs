@@ -49,6 +49,7 @@
 
 ## Compliance & Legal
 
+* [Compliance & Legal Overview](compliance-and-legal/compliance-and-legal-overview.md)
 * [Entity Structure](compliance-and-legal/ecoyield-entity-structure.md)
 * [KYC/AML Process](compliance-and-legal/ecoyield-kyc-aml-tiered-access.md)
 * [MiCA Alignment](compliance-and-legal/mica-alignment.md)
