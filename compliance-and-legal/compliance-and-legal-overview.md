@@ -26,10 +26,11 @@ Retail participation is gated through jurisdictional compliance checks at the on
 
 EcoYield’s operational and legal architecture is designed for transparency and scalability:
 
-Function Entity / Jurisdiction Purpose\
-Protocol & Token Layer EcoYield DAO LLC (BVI) (in formation) Token issuance, governance, and treasury management\
-Development & Operations EcoYield Innovations Ltd (UK) Platform development, marketing, and technical operations\
-Project SPVs / Vaults UAE Free Zone SPVs Own and operate real-world renewable + compute assets
+| Function                 | Entity / Juristiction                                                                                 | Purpose                                                  |
+| ------------------------ | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Protocol & Token Layer   | EcoYield Energy Foundation  (Panama)                                                                  | Token issuance, governance and treasury management       |
+| Development & Operations | EcoYield Energy FZCO (UAE)                                                                            | Platform development, marketing and technical operations |
+| Project SPVs / Vaults    | EcoYield Project Holdings Ltd & EcoYield Project Vault 1 (BVI) _Sequential company formations in BVI_ | Own and operate real-world renewable + compute assets    |
 
 This multi-layered structure allows EcoYield to operate compliantly across the UK, EU, UAE, and selected non-U.S. jurisdictions.
 
