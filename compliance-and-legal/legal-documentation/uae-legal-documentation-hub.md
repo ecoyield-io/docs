@@ -1,18 +1,26 @@
 # UAE Legal Documentation Hub
 
-#### 1. Dubai Incorporation Certificate
+#### 1. UAE Trade License
 
-[Dubai Incorporation Certificate (FZCO)](https://drive.google.com/file/d/1YkQfqiLrxPxoDK0N3QIf8bg-ZKSgmEJO/view?usp=drive_link)
+{% file src="../../.gitbook/assets/ECOYIELD ENERGY - FZCO  - License.pdf" %}
+UAE Trade License - EcoYield Energy FZCO
+{% endfile %}
 
 #### 2. Property Leasing Agreement
 
-[Property Leasing Agreement (FZCO)](https://drive.google.com/file/d/1d9hToZ7XAgMBSCEQRrbVIV0c-2-7vt39/view?usp=drive_link)
+{% file src="../../.gitbook/assets/ECOYIELD ENERGY - FZCO - ULA 22-Apr-2025 09_25_27.pdf" %}
+Property Leasing Agreement - EcoYield Energy FZCO
+{% endfile %}
 
 #### 3. Certificate of Formation
 
-[Certificate of Formation (FZCO - COF)](https://drive.google.com/file/d/1HAye3mwyn4KKTEQilSZJFhAqMn0ZvTQd/view?usp=sharing)
+{% file src="../../.gitbook/assets/ECOYIELD ENERGY - FZCO- COF   - DIGITAL.pdf" %}
+Certificate of Formation - EcoYield Energy FZCO
+{% endfile %}
 
 #### 4. Corporation Tax Registration Certificate
 
-[Corporate Tax Registration Certificate (FZCO)](https://drive.google.com/file/d/1NtWcccoChBmEItO_uMJYPxYuBJektsE2/view?usp=drive_link)
+{% file src="../../.gitbook/assets/Ecoyield Energy FZCO- Corporate Tax Registration Certificate.pdf" %}
+Corporation Tax Registration Certificate - EcoYield Energy FZCO
+{% endfile %}
 
