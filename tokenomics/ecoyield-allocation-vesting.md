@@ -2,20 +2,20 @@
 
 EcoYield’s total token supply is fixed at **1,000,000,000 $EYE**, with a fully diluted market cap of **$300M**. Tokens are allocated strategically across presale, ecosystem growth, team, and rewards to balance **capital raising, protocol adoption, and long-term alignment**.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Allocations:**
 
-* **Founders Round – 10%**
-  * 6-month cliff, 24-month vesting.
+* **Founders Round – 5%**
+  * 0 cliff period, 12-month vesting.
   * Designed to onboard strategic early backers.
-* **Public Presale – 30%**
+* **Public Presale – 20%**
   * 12-month vesting, phased release via presale tiers.
   * Creates scarcity and strong early-mover incentives.
-* **Ecosystem – 10%**
+* **Ecosystem – 20%**
   * 36-month vesting.
   * Supports partnerships, integrations, and community incentives.
-* **Reserve – 10%**
+* **Reserve – 15%**
   * 12-month cliff, 36-month vesting.
   * Strategic reserve for future opportunities.
 * **Liquidity (DEX & CEX) – 10%**
@@ -24,14 +24,14 @@ EcoYield’s total token supply is fixed at **1,000,000,000 $EYE**, with a fully
 * **Staking – 10%**
   * 48-month linear vesting.
   * Long-term reward pool to incentivise token holders and boost yields.
-* **Early Yeild Token Rewards – 5%**
+* **Early Yield Token Rewards – 5%**
   * 25% unlocked at TGE, remainder over 12 months.
   * Kickstarts vault participation and rewards early adopters.
 * **Team – 10%**
-  * 9-month cliff, 24-month vesting.
+  * 6-month cliff, 24-month vesting.
   * Aligns the core team with long-term project growth.
 * **Advisors – 5%**
-  * 9-month cliff, 24-month vesting.
+  * 12-month cliff, 24-month vesting.
   * Structured to ensure sustained involvement from key advisors.
 
 ### Why This Matters

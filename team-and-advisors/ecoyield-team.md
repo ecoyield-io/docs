@@ -49,7 +49,7 @@ Kye holds a Master’s degree in Renewable Energy Engineering and brings strong 
 
 **Legal & Compliance Advisor – Corporate Structuring & Governance**
 
-Olivia brings deep expertise in international corporate law, compliance, and Web3 regulatory structuring to EcoYield. With a background in guiding blockchain startups through complex multi-jurisdictional frameworks, she advises on DAO setup, token compliance, offshore structuring, and corporate governance. Her guidance ensures EcoYield’s legal foundations are robust, investor-ready, and aligned with evolving global standards, supporting the platform’s credibility and long-term scalability.
+Sophie brings deep expertise in international corporate law, compliance, and Web3 regulatory structuring to EcoYield. With a background in guiding blockchain startups through complex multi-jurisdictional frameworks, she advises on DAO setup, token compliance, offshore structuring, and corporate governance. Her guidance ensures EcoYield’s legal foundations are robust, investor-ready, and aligned with evolving global standards, supporting the platform’s credibility and long-term scalability.
 
 
 

@@ -58,7 +58,7 @@ To maximise demand for EcoYield’s GPU farms, we partner with leading decentral
 
 ### High-Level Deployment Flow
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Originate** — C-Quel identifies commercial or institutional decarbonisation projects.
 2. **Design & Validate** — Deseco models technical and financial feasibility; EcoYield underwrites for listing.

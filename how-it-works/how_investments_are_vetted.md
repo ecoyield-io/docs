@@ -2,7 +2,7 @@
 
 EcoYield ensures that every project listed on the platform goes through a rigorous due diligence and vetting process. This protects investor capital, builds confidence, and ensures only high-quality, revenue-generating assets enter the ecosystem.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 1. Feasibility Studies
 
