@@ -36,7 +36,7 @@ A: All project cashflows and yields are reported on-chain via audited smart cont
 
 * Q: What are the expected yields (APY), and are they fixed or variable?
 
-A: Target yields are 25–35% APY, depending on project IRR and demand. They are variable but asset-backed and transparent.
+A: Target yields are 20–30% APY, depending on project IRR and demand. They are variable but asset-backed and transparent.
 
 ## Legal & Ownership
 
