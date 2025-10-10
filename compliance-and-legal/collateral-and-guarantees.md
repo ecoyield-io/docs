@@ -1,6 +1,6 @@
 # Collateral & Guarantees
 
-EcoYield is designed to ensure that investor funds are always tied to real-world assets and protected by robust legal frameworks. Unlike speculative protocols, every vault is underpinned by tangible infrastructure—solar farms, battery storage systems, and GPU data centres—held in Special Purpose Vehicles (SPVs) to ring-fence risk and guarantee transparency.
+EcoYield is designed to ensure that investor funds are always tied to real-world assets and protected by robust legal frameworks. Unlike speculative protocols, every vault is underpinned by tangible infrastructure. Solar farms, battery storage systems, and GPU data centres, held in Special Purpose Vehicles (SPVs) to ring-fence risk and guarantee transparency.
 
 ### Asset-Backed Security Structure
 
@@ -37,7 +37,7 @@ EcoYield is designed to ensure that investor funds are always tied to real-world
 **Aligned Fee Structure**
 
 * Funding Fee (2.5%) covers legal, compliance, and KYC/AML costs upfront before any project goes live
-* Performance/Yield Fees only scale with project success—EcoYield earns more only when LPs earn more
+* Performance/Yield Fees only scale with project success. EcoYield earns more only when LPs earn more
 * No withdrawal fees: investors can exit yields without punitive penalties, ensuring flexibility
 
 **Regulatory Compliance**
@@ -49,8 +49,8 @@ EcoYield is designed to ensure that investor funds are always tied to real-world
 
 This design ensures that EcoYield is not a "trust-me" DeFi model but a legally enforceable, asset-backed investment structure where:
 
-* **Capital is never free-floating**—it is collateralised by tangible assets with clear ownership
-* **Yield comes from real activity**—compute and energy sales, not speculation or token emissions
-* **Projects are de-risked**—via feasibility studies, independent audits, and transparent on-chain reporting
-* **Investors have full visibility**—knowing exactly where their money is going and what assets back their returns
-* **Protocol incentives are aligned**—creating real yield through productive infrastructure, not vaporware
+* **Capital is never free-floating:** It is collateralised by tangible assets with clear ownership
+* **Yield comes from real activity:** Compute and energy sales, not speculation or token emissions
+* **Projects are de-risked:** Via feasibility studies, independent audits, and transparent on-chain reporting
+* **Investors have full visibility:** Knowing exactly where their money is going and what assets back their returns
+* **Protocol incentives are aligned:** Creating real yield through productive infrastructure, not vaporware

@@ -37,7 +37,7 @@ EcoYield only earns when projects are generating yield. The performance fee ensu
   * 50 % → Protocol treasury (funds future growth, covers reserves, and strengthens EcoYield’s balance sheet).
 
 \
-This means EcoYield only earns more when you earn more — our performance fee grows _in line_ with project success.
+This means EcoYield only earns more when you earn more, our performance fee grows _in line_ with project success.
 
 ***
 

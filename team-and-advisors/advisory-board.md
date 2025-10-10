@@ -29,7 +29,7 @@ At EcoYield, Christopher advises on capital strategy, fund structuring, and inst
 
 Tarun is a globally respected technology strategist, serial entrepreneur, and AI expert with over 25 years of cross-disciplinary experience across fintech, blockchain, AI, and enterprise systems. Based in Kuala Lumpur, he is the Founder and CTO of Abundent, one of Malaysia’s leading EdTech and AI-driven consultancies, and has held CTO roles in both the US and Southeast Asia.\
 Educated at the University of Chicago, UIUC, MIT, and Loyola GSB, Tarun combines world-class technical depth with hands-on product leadership and has overseen systems delivery across banking, energy, logistics, and public sectors. He has built and scaled startups, led $100M+ enterprise projects, and served as a lead trainer and consultant for global clients in blockchain, data science, and DevOps.\
-At EcoYield, Tarun provides senior strategic support across token architecture, technical due diligence, and AI integration—advising the founding team on best-in-class product frameworks and guiding the roadmap for sustainable Web3 infrastructure.
+At EcoYield, Tarun provides senior strategic support across token architecture, technical due diligence, and AI integration, advising the founding team on best-in-class product frameworks and guiding the roadmap for sustainable Web3 infrastructure.
 
 
 
@@ -37,10 +37,10 @@ At EcoYield, Tarun provides senior strategic support across token architecture, 
 
 **AI Advisor – Autonomous Systems & Scalable Intelligence**
 
-Roman is a leading voice in AI-native Web3 innovation, with deep expertise in building autonomous, intelligent systems that power next-generation platforms. As founder of Sensay and Charged Ventures, he is at the forefront of AI x DeFi convergence — designing infrastructure where machine learning drives capital allocation, governance, and protocol evolution.
+Roman is a leading voice in AI-native Web3 innovation, with deep expertise in building autonomous, intelligent systems that power next-generation platforms. As founder of Sensay and Charged Ventures, he is at the forefront of AI x DeFi convergence, designing infrastructure where machine learning drives capital allocation, governance, and protocol evolution.
 
-With a background in AI strategy, autonomous agents, and decentralised decision-making, Roman brings a rare blend of technical depth and visionary thinking. His work focuses on building platforms that think, adapt, and scale themselves — reducing human bottlenecks while increasing transparency and trust.
+With a background in AI strategy, autonomous agents, and decentralised decision-making, Roman brings a rare blend of technical depth and visionary thinking. His work focuses on building platforms that think, adapt, and scale themselves, reducing human bottlenecks while increasing transparency and trust.
 
-At EcoYield, Roman advises on AI integration strategy to help transform the platform into a truly autonomous climate yield engine. From self-optimising vault logic and intelligent DAO tooling to on-chain impact oracles, Roman’s vision will guide EcoYield’s evolution into a scalable, intelligent, and globally deployable clean energy protocol — where automation accelerates both performance and impact.
+At EcoYield, Roman advises on AI integration strategy to help transform the platform into a truly autonomous climate yield engine. From self-optimising vault logic and intelligent DAO tooling to on-chain impact oracles, Roman’s vision will guide EcoYield’s evolution into a scalable, intelligent, and globally deployable clean energy protocol, where automation accelerates both performance and impact.
 
 \

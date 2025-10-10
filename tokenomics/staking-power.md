@@ -1,6 +1,6 @@
 # Staking Power
 
-EcoYield’s staking mechanism balances fairness and incentives. Yield Tokens can boost their project yield and access priority on future vaults by staking $EYE - but with built-in checks to prevent abuse. The system uses a calculated Stake Score to determine yield boosts and project access.
+EcoYield’s staking mechanism balances fairness and incentives. Yield Tokens can boost their project yield and access priority on future vaults by staking $EYE, but with built-in checks to prevent abuse. The system uses a calculated Stake Score to determine yield boosts and project access.
 
 * EYE Power Ratio ensures wallets aren’t unfairly weighted by oversized $EYE stakes.
 * Stake Score blends Yield Tokens and $EYE power to rank contributors fairly.

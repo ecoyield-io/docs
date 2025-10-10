@@ -2,7 +2,7 @@
 
 ## Overview
 
-EcoYield is designed to give investors confidence that their capital is tied to real, revenue-generating infrastructure. Unlike many Web3 projects where funds move into abstract equity or development cycles, EcoYield allocates the majority of investor contributions directly into physical assets—solar arrays, modular AI data centres, and battery storage.
+EcoYield is designed to give investors confidence that their capital is tied to real, revenue-generating infrastructure. Unlike many Web3 projects where funds move into abstract equity or development cycles, EcoYield allocates the majority of investor contributions directly into physical assets i.e. solar arrays, modular AI data centres, and battery storage.
 
 This means your investment is grounded in tangible, cash-flowing infrastructure while still capturing upside from equity, tokens, and protocol growth.&#x20;
 
@@ -10,11 +10,11 @@ This means your investment is grounded in tangible, cash-flowing infrastructure 
 
 ## How It Works
 
-* Founders Round – 70% of invested capital goes directly into physical infrastructure. The remainder covers ecosystem equity, protocol development, and growth.
+* **Founders Round:** 70% of invested capital goes directly into physical infrastructure. The remainder covers ecosystem equity, protocol development, and growth.
 
 
 
-* Presale Tiers – As token demand increases, a slightly smaller proportion goes into assets, balancing infrastructure build-out with ecosystem scaling:
+* **Presale Tiers:** As token demand increases, a slightly smaller proportion goes into assets, balancing infrastructure build-out with ecosystem scaling:
   * Tier 1 → 65% into physical assets
   * Tier 2 → 60% into physical assets
   * Tier 3 → 55% into physical assets (end of asset-backed allocation)
@@ -23,9 +23,9 @@ This means your investment is grounded in tangible, cash-flowing infrastructure 
 
 ## Why This Works&#x20;
 
-* Tangible Infrastructure First – By anchoring investment to physical assets, we build real-world yield and de-risk the protocol.
-* Scalable Growth – The tiered approach funds rapid infrastructure deployment early, then shifts balance toward scaling ecosystem, liquidity, and governance as demand grows.
-* Proof Before Hype – Early capital builds live, revenue-generating projects—showing traction before public rounds and speculation.\
+* Tangible Infrastructure First: By anchoring investment to physical assets, we build real-world yield and de-risk the protocol.
+* Scalable Growth: The tiered approach funds rapid infrastructure deployment early, then shifts balance toward scaling ecosystem, liquidity, and governance as demand grows.
+* Proof Before Hype: Early capital builds live, revenue-generating projects—showing traction before public rounds and speculation.\
 
 
 ***

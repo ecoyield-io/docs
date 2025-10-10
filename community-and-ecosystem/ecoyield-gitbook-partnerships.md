@@ -60,30 +60,30 @@ To maximise demand for EcoYield’s GPU farms, we partner with leading decentral
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. **Originate** — C-Quel identifies commercial or institutional decarbonisation projects.
-2. **Design & Validate** — Deseco models technical and financial feasibility; EcoYield underwrites for listing.
-3. **Fund** — Investors (via EcoYield platform) and partners like Accredica/SDC Capital provide capital into the Project Vault. Capital releases to partners upon verified milestone completion—equipment procurement, construction progress, commissioning—ensuring funds tie to real deployment progress.
-4. **Build & Deploy** — JLM Energy constructs the renewable system; Huawei provides PV/BESS hardware; EcoBlox installs GPU containers.
-5. **Verify** — WattCarbon validates live generation and carbon data; EcoYield records and publishes results on-chain.
-6. **Yield & Govern** — EcoYield smart contracts distribute returns (USDC/$EYE); DAO governs reinvestment and scaling.
+1. **Originate:** C-Quel identifies commercial or institutional decarbonisation projects.
+2. **Design & Validate:** Deseco models technical and financial feasibility; EcoYield underwrites for listing.
+3. **Fund:** Investors (via EcoYield platform) and partners like Accredica/SDC Capital provide capital into the Project Vault. Capital releases to partners upon verified milestone completion i.e. equipment procurement, construction progress, commissioning. Ensuring funds tie to real deployment progress.
+4. **Build & Deploy:** JLM Energy constructs the renewable system; Huawei provides PV/BESS hardware; EcoBlox installs GPU containers.
+5. **Verify:** WattCarbon validates live generation and carbon data; EcoYield records and publishes results on-chain.
+6. **Yield & Govern:** EcoYield smart contracts distribute returns (USDC/$EYE); DAO governs reinvestment and scaling.
 
 ### Risk & Accountability
 
 EcoYield mitigates partner and execution risk through:
 
-* **Multi-party verification** — Deseco designs, JLM builds, WattCarbon verifies
-* **Milestone-based releases** — capital unlocks only after verified progress
-* **Insurance-backed guarantees** — via Accredica structuring
-* **DAO oversight** — community votes on project continuation if issues arise
+* **Multi-party verification:** Deseco designs, JLM builds, WattCarbon verifies
+* **Milestone-based releases:** capital unlocks only after verified progress
+* **Insurance-backed guarantees:** via Accredica structuring
+* **DAO oversight:** community votes on project continuation if issues arise
 
 ### EcoYield's Core Role
 
-EcoYield is the critical centrepiece — the digital and financial layer that:
+EcoYield is the critical centrepiece, the digital and financial layer that:
 
-* Connects global investors with verified physical assets,
-* Automates capital flow, monitoring, and yield distribution,
-* Anchors compliance and data integrity through partner integrations, and
-* Scales the model globally by replicating this workflow across new geographies and partnerships.
+* Connects global investors with verified physical assets
+* Automates capital flow, monitoring, and yield distribution
+* Anchors compliance and data integrity through partner integrations
+* Scales the model globally by replicating this workflow across new geographies and partnerships
 
 ## Why Partnerships Matter
 
