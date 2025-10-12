@@ -4,44 +4,53 @@ icon: timeline-arrow
 
 # Roadmap
 
-<figure><img src="../.gitbook/assets/Roadmap v2.png" alt=""><figcaption></figcaption></figure>
-
 EcoYield’s growth plan is designed to balance speed, execution credibility, and investor confidence. Each phase builds on real infrastructure deployment, growing TVL, and progressive decentralisation through the EcoYield DAO.
 
-## Phase 1 - Q3–Q4 2025: Foundation & Presale
+#### Phase 1 – Foundation & Market Entry (Q4 2025)
 
-* Private Seed Round & Public Presale (10-phase tiered structure).
-* Investor incentives: early presale funds tied directly to pilot project deployment, with Yield Token allocations distributed upon project go-live.
-* Token Generation Event (TGE) immediately after presale close → ensures liquidity and market confidence.
-* First pilot projects: NHS London (15x 7kW EV Chargers) and Leeds, UK (10 GPUs + 150kW solar).
-* DAO multisig governance begins for core operations.
+* Launch of $EYE Token Presale, providing early investors exclusive access at foundation pricing.
+* Initial capital formation for immediate project deployment.
+* Leeds Pilot Site activation – first operational renewable-powered GPU data centre generating dual yields from compute leasing and energy sales.
+* Yield Token issuance to presale participants, proving full capital-to-yield value chain.
+* EcoYield MVP launch – live on-chain dashboards with yield tracking and vault transparency.
+* Strategic partnerships finalised with EcoBlox, Huawei, Accredica, C-Quel, and SDC Capital, ensuring deployment capability and compliance across key jurisdictions.
 
-## Phase 2 - Q1–Q2 2026: Flagship Deployment (UAE)
+***
 
-* Deploy Dubai flagship project: 100 GPUs, 800kW solar + 2MWh battery.
-* Launch secondary markets for Yield Tokens → enabling liquidity and structured exits.
-* Expand marketing flywheel (Coinpresso 3:1 ROAS + KOL partnerships) to accelerate TVL growth.
-* $EYE token live with staking + yield boost utility.
+#### Phase 2 – Yield Generation & Expansion (Q1 2026)
 
-## Phase 3 - Q3–Q4 2026: Global Scaling & Institutional Onboarding
+* First yield distributions to investors from UK infrastructure projects.
+* UAE flagship mobilisation – engineering and permitting for 800 kW solar + 2 MWh battery storage data centre in Dubai.
+* Token Generation Event (TGE) – creation of secondary-market liquidity via DEX and CEX listings.
+* Pipeline expansion through additional UK renewable-compute projects, strengthening track record.
+* Validation of the EcoYield economic model through live, sustainable yield generation.
 
-* Rollout additional renewable-powered compute farms across the UK, UAE, and new geographies.
-* Explore corporate partnerships with AI labs and decentralised GPU networks (Render, Akash, Bittensor).
-* Carbon credit integration → projects generate certified credits for additional revenue.
-* Pilot Yield Token secondary trading module and insurance vaults under DAO governance.
+***
 
-## Phase 4 - Q1–Q2 2027: DAO Expansion
+#### Phase 3 – Infrastructure Scaling & Protocol Maturation (Q2–Q3 2026)
 
-* Community DAO activation with transferable $EYE governance.
-* Treasury oversight shifts from multisig to DAO treasury management.
-* Members gain proposal/voting rights on new vaults, treasury allocation, and ecosystem partnerships.
-* Full transparency on protocol revenues, buybacks, and performance fees.
+* Dubai flagship launch – first large-scale hybrid renewable + AI compute deployment.
+* Yield Token secondary market introduced, unlocking liquidity for infrastructure positions.
+* GPU Leasing Marketplace (beta) connects AI companies directly to clean compute capacity.
+* Insurance Vault activation through third-party coverage providers, ensuring protection and continuity.
+* Establishes EcoYield as a mature, institutional-grade infrastructure platform.
 
-## Phase 5 - Q3–Q4 2027: Full Decentralisation & Institutional Scale
+***
 
-* EcoYield operates as a decentralised infrastructure investment platform.
-* DAO governs all new vault approvals, treasury allocations, and protocol upgrades.
-* Expanded portfolio of global compute + renewable projects under management.
-* Target milestone: $1bn+ AUM, positioning EcoYield as the first “digital BlackRock” for tokenised clean energy + AI compute.
+#### Phase 4 – Institutional Integration & Geographic Diversification (Q1 2027)
 
-EcoYield’s roadmap is simple but ambitious: build real yield projects, compound TVL, and progressively decentralise into a global DAO.
+* Institutional partnerships with energy funds, AI infrastructure firms, and asset managers.
+* Expansion into North America and LATAM with local renewable partners and investors.
+* Carbon & Energy Credit Marketplace launch – integrating verified ESG data and tokenized trading.
+* Next-generation GPU fleet deployment enhances compute yield and efficiency.
+* Transition from early-stage protocol to global infrastructure investment platform.
+
+***
+
+#### Phase 5 – Decentralization & Ecosystem Maturity (Q3–Q4 2027)
+
+* Full DAO activation – community-controlled treasury and on-chain governance.
+* Cross-chain expansion to Polygon, Base, and BSC for lower fees and broader access.
+* Launch of Institutional Yield Index, aggregating top projects into diversified vaults.
+* Sustainability dashboard live – carbon and energy impact tracking verified by WattCarbon and blockchain oracles.
+* Establishes EcoYield as critical infrastructure for renewable energy, AI, and decentralized finance convergence.
