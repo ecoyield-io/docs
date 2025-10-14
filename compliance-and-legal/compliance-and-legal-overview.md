@@ -11,8 +11,8 @@ Our structure separates the on-chain protocol layer from the off-chain asset lay
 ## 1. Token Issuance & Investor Framework
 
 EcoYield’s token ecosystem is built around two instruments:\
-• $EYE Token – a utility and governance token providing staking rewards, access to vaults, and participation in DAO governance.\
-• Yield Tokens (LP Tokens) – issued to investors representing their proportional participation in specific project vaults and the underlying revenue streams.
+• $EYE Token: a utility and governance token providing staking rewards, access to vaults, and participation in DAO governance.\
+• Yield Tokens (LP Tokens): issued to investors representing their proportional participation in specific project vaults and the underlying revenue streams.
 
 Private Offering Structure\
 • Non-U.S. Investors: Tokens are issued under a SAFT (Non-U.S.) framework compliant with Regulation S.\
@@ -36,9 +36,9 @@ This multi-layered structure allows EcoYield to operate compliantly across the U
 
 ## 3. Legal Documentation
 
-To maintain confidentiality and prevent misinterpretation, the following documents are available upon verified investor request via our Investor Data Room or by emailing legal@ecoyield.io:\
+To maintain confidentiality and prevent misinterpretation, the following documents are available upon verified investor request by emailing legal@ecoyield.io:\
 • SAFT (Non-U.S.)\
-• SAFT (U.S. – Accredited Investors)\
+• SAFT (U.S. Accredited Investors)\
 • Limited Partnership Subscription Agreement (LPSA)\
 • Legal Opinion (June 2025) confirming compliance with applicable exemptions\
 • KYC/AML & Risk Disclosure Policies

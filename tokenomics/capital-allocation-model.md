@@ -32,8 +32,8 @@ This means your investment is grounded in tangible, cash-flowing infrastructure 
 
 ## Why This Matters
 
-* Lower Risk – Majority of your investment is tied to physical, cash-flowing assets with measurable and forecastable ROI.
-* Upside Exposure – You still benefit from equity growth, token appreciation, and staking rewards, on top of asset-backed yield.
-* Fair Early Entry – Early tiers allocate more to infrastructure, giving first movers greater exposure to real-world yield.
+* Lower Risk: Majority of your investment is tied to physical, cash-flowing assets with measurable and forecastable ROI.
+* Upside Exposure: You still benefit from equity growth, token appreciation, and staking rewards, on top of asset-backed yield.
+* Fair Early Entry:  Early tiers allocate more to infrastructure, giving first movers greater exposure to real-world yield.
 
-Confidence in Deployment – Funds aren’t just going to overheads — they’re building solar panels, GPUs, and revenue streams.\
+Confidence in Deployment. Funds aren’t just going to overheads, they’re building solar panels, GPUs, and revenue streams.\

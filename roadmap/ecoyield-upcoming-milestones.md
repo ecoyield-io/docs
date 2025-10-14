@@ -26,4 +26,6 @@ EcoYield is entering its next phase of growth with a series of milestones design
 * Each new vault compounds the EcoYield flywheel: More TVL → More Yield → Rising $EYE Demand → Growth.
 * Builds toward EcoYield’s long-term vision of a decentralised, multi-billion AUM infrastructure platform.
 
-Why This Matters These milestones demonstrate that EcoYield is not a speculative token launch but a real, revenue-generating business. By tying every phase to tangible deployment and decentralised governance, we are building a sustainable platform where investors earn reliable yield today while shaping the future of AI infrastructure tomorrow.
+## Why This Matters&#x20;
+
+These milestones demonstrate that EcoYield is not a speculative token launch but a real, revenue-generating business. By tying every phase to tangible deployment and decentralised governance, we are building a sustainable platform where investors earn reliable yield today while shaping the future of AI infrastructure tomorrow.

@@ -36,5 +36,5 @@ Formula: Score = (Yield Tokens^0.55) × (Effective EYE Power^0.45)
 
 * Fair for All Sizes: Prevents whales from crowding out smaller investors while still rewarding meaningful, long-term participation.
 * Boosted Yield = Higher Returns: Stakers earn more from the same vault through fair boosts tied to their score.
-* Future Access Advantage: Higher scores unlock early access and larger allocations in upcoming EcoYield projects — incentivising $EYE loyalty and sustained support.
+* Future Access Advantage: Higher scores unlock early access and larger allocations in upcoming EcoYield projects incentivising $EYE loyalty and sustained support.
 

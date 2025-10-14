@@ -29,7 +29,7 @@ EcoYield is built on a multi-jurisdictional legal stack designed to balance comp
 
 * Credibility: A legally robust, multi-entity structure reassures both investors and regulators.
 * Scalability: Each entity plays a specialised role; governance (Panama), fundraising (BVI), execution (UAE).
-* Compliance-First: Aligns EcoYield with MiCA, FATF, and regional frameworks while maintaining global accessibility.
+* Compliance First: Aligns EcoYield with MiCA, FATF, and regional frameworks while maintaining global accessibility.
 * Risk Management: Ring-fences legal, financial, and operational risk at different layers of the stack.
 
 This structure ensures EcoYield is not just another crypto experiment but a compliant, investable, and operationally sound platform for building the future of clean AI infrastructure.
