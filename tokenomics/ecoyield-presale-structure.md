@@ -4,7 +4,7 @@ EcoYield’s presale is designed to reward early conviction, create natural scar
 
 ## Tiered Token Pricing
 
-* The $EYE presale follows a step-up pricing model, starting at $0.025 and increasing incrementally across multiple phases until the public presale.
+* The $EYE presale follows a step-up pricing model, starting at $0.025 and increasing incrementally across multiple phases until the TGE.
 * Each tranche is capped, meaning once a tier sells out, the price automatically increases for the next.
 * This creates urgency and ensures early investors receive the lowest entry price and the highest upside.
 

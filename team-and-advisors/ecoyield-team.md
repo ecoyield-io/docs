@@ -6,7 +6,7 @@ icon: people-group
 
 ### Jordan Myers (UK/UAE)
 
-**Founder – (EcoYield)**
+**Founder (EcoYield)**
 
 Jordan is a seasoned entrepreneur and clean energy specialist with 20 years of experience leading large-scale renewable infrastructure projects. As CEO of JLM Energy and founder of Deseco, he has delivered over £10M in solar, battery storage, and smart energy systems for major clients including Amazon and Coca-Cola. Recently expanding operations into the Gulf region, Jordan brings deep domain expertise, commercial acumen, and a visionary drive to bridge Web3 innovation with real-world energy assets, enabling a new era of decentralised, yield-generating sustainability.\
 
