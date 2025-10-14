@@ -6,7 +6,7 @@ icon: leaf
 
 At EcoYield, sustainability is not an afterthought; it is the foundation of our model. Every GPU compute farm we deploy is designed to be powered primarily by renewable energy from day one, ensuring that the infrastructure fueling AI growth contributes positively to the planet.
 
-## Renewable-First Design
+## Renewable First Design
 
 * All EcoYield projects integrate solar PV and battery storage as the primary energy source.
 * Clean energy is used first to power GPU compute farms, ensuring reduced reliance on fossil fuels.
