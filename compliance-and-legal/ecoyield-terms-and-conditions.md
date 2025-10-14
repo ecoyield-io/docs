@@ -10,7 +10,7 @@ Participation in EcoYield requires an understanding of both the opportunities an
 
 ## 2. Nature of Investments
 
-* Investments are structured via Yield Tokens, which represent allocations in project vaults backed by renewable-powered GPU infrastructure.
+* Investments are structured via Yield Tokens, which represent allocations in project vaults backed by renewable powered GPU infrastructure.
 * The $EYE token provides governance rights, staking boosts, and access priority but is not a security.
 * All investments carry inherent risks, including market volatility, regulatory changes, and project-specific risks.
 

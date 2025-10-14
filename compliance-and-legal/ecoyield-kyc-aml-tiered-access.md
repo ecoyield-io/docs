@@ -4,17 +4,17 @@ At EcoYield, compliance is a priority; but it should never be a barrier. Our KYC
 
 We apply a tiered, risk-based approach that scales with the level of investment:
 
-## Tier 0 - Fast Onboarding
+## Tier 0: Fast Onboarding
 
 * Entry-level access with minimal requirements.
 * Designed for smaller contributions and global accessibility.
 
-## Tier 1 - Verified Participants
+## Tier 1: Verified Participants
 
 * Requires basic ID verification.
 * Suitable for most retail investors.
 
-## Tier 2 - Institutional Access
+## Tier 2: Institutional Access
 
 * Full compliance checks (ID, AML screening, proof of address).
 * Required for larger allocations, funds, and strategic partners.

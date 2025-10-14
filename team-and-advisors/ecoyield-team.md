@@ -6,29 +6,29 @@ icon: people-group
 
 ### Jordan Myers (UK/UAE)
 
-**Founder – EcoYield**
+**Founder – (EcoYield)**
 
 Jordan is a seasoned entrepreneur and clean energy specialist with 20 years of experience leading large-scale renewable infrastructure projects. As CEO of JLM Energy and founder of Deseco, he has delivered over £10M in solar, battery storage, and smart energy systems for major clients including Amazon and Coca-Cola. Recently expanding operations into the Gulf region, Jordan brings deep domain expertise, commercial acumen, and a visionary drive to bridge Web3 innovation with real-world energy assets, enabling a new era of decentralised, yield-generating sustainability.\
 
 
 ### Tim Hembrough (UK)
 
-**Founder & CEO - EcoYield**
+**Founder & CEO (EcoYield)**
 
-Timothy is a seasoned Web3 product strategist and tokenomics architect with over a decade of experience leading high-growth initiatives at top-tier blockchain ventures including Aave, Pixelynx, and HLV. He has overseen the launch of 50+ NFT and token products across Ethereum, Polygon, Solana, and Base, designing smart contract infrastructure, staking logic, and marketplace strategies for large-scale digital assets. At EcoYield, Tim leads product innovation and MVP delivery—translating token economics into user-friendly staking flows and DAO-integrated systems, and ensuring EcoYield’s product roadmap aligns seamlessly with community, compliance, and capital growth.
+Timothy is a seasoned Web3 product strategist and tokenomics architect with over a decade of experience leading high-growth initiatives at top-tier blockchain ventures including Aave, Pixelynx, and HLV. He has overseen the launch of 50+ NFT and token products across Ethereum, Polygon, Solana, and Base, designing smart contract infrastructure, staking logic, and marketplace strategies for large-scale digital assets. At EcoYield, Tim leads product innovation and MVP delivery. Translating token economics into user-friendly staking flows and DAO-integrated systems, and ensuring EcoYield’s product roadmap aligns seamlessly with community, compliance, and capital growth.
 
 
 
 ### Ian Cunningham (UK)
 
-**Managing Director – Asset Delivery**
+**Managing Director (Asset Delivery)**
 
-Ian brings over 40 years of experience in mechanical engineering and large-scale infrastructure delivery to EcoYield. As Managing Director – Asset Delivery, he oversees the end-to-end execution of renewable energy assets, including solar, battery storage, and EV infrastructure. With a proven track record leading multi-£million energy projects across the UK and internationally, Ian ensures all physical deployments are commercially sound, technically robust, and aligned with EcoYield’s long-term sustainability goals. His leadership bridges the gap between blockchain innovation and real-world impact.\
+Ian brings over 40 years of experience in mechanical engineering and large-scale infrastructure delivery to EcoYield. As Managing Director, he oversees the end-to-end execution of renewable energy assets, including solar, battery storage, and EV infrastructure. With a proven track record leading multi-£million energy projects across the UK and internationally, Ian ensures all physical deployments are commercially sound, technically robust, and aligned with EcoYield’s long-term sustainability goals. His leadership bridges the gap between blockchain innovation and real-world impact.\
 
 
 ### Michael Buckley (UK)
 
-**Technical Director – Feasibility & Engineering Oversight**
+**Technical Director (Feasibility & Engineering Oversight)**
 
 Michael Buckley brings over 20 years of deep technical and commercial experience in the renewable energy sector, with a proven track record spanning engineering design, project feasibility, and strategic delivery.
 
@@ -39,7 +39,7 @@ At EcoYield, Michael oversees all real-world project feasibility and technical m
 
 ### Kye Barwell
 
-**Technical Design Engineer**
+**Technical Design Engineer**&#x20;
 
 Kye holds a Master’s degree in Renewable Energy Engineering and brings strong technical expertise to EcoYield’s project delivery team. At EcoYield, Kye focuses on the technical and design aspects of renewable energy projects, ensuring that each scheme is optimised for performance, reliability, and long term value. With a background rooted in engineering design and feasibility assessment, Kye applies advanced modelling tools to develop accurate forecasts and robust technical solutions. His work is central to de-risking projects and supporting EcoYield’s mission to turn complex energy infrastructure into viable, investable opportunities.
 
@@ -47,7 +47,7 @@ Kye holds a Master’s degree in Renewable Energy Engineering and brings strong 
 
 ### Sophie Kendall (UK/UAE)&#x20;
 
-**Legal & Compliance Advisor – Corporate Structuring & Governance**
+**Legal & Compliance Advisor  (Corporate Structuring & Governance)**
 
 Sophie brings deep expertise in international corporate law, compliance, and Web3 regulatory structuring to EcoYield. With a background in guiding blockchain startups through complex multi-jurisdictional frameworks, she advises on DAO setup, token compliance, offshore structuring, and corporate governance. Her guidance ensures EcoYield’s legal foundations are robust, investor-ready, and aligned with evolving global standards, supporting the platform’s credibility and long-term scalability.
 

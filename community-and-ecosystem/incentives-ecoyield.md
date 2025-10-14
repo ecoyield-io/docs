@@ -23,4 +23,6 @@ EcoYield rewards early participation and long-term commitment through a range of
 * Priority access to future vaults during high-demand sales.
 * This creates strong alignment: the more committed a participant is, the greater their long-term rewards.
 
-Why This Matters EcoYield’s incentive design ensures that early adopters, community advocates, and long-term believers all benefit disproportionately. By combining early vouchers, referrals, and staking boosts, the protocol builds a loyal, expanding community while rewarding those who help drive its early growth.
+## Why This Matters&#x20;
+
+EcoYield’s incentive design ensures that early adopters, community advocates, and long-term believers all benefit disproportionately. By combining early vouchers, referrals, and staking boosts, the protocol builds a loyal, expanding community while rewarding those who help drive its early growth.

@@ -37,7 +37,7 @@ The Dubai flagship project represents EcoYield’s largest deployment to date an
 
 ## Timeline
 
-* Pre-Funding Stage: Completed August 2025 – technical, feasibility, and legal approvals secured.
+* Pre-Funding Stage: Completed August 2025, technical, feasibility, and legal approvals secured.
 * Deployment: 3–4 months post-funding.
 * Operational Date: Targeting Q2 2026.
 * GPU Replacement Cycles: Every 3 years, reinvested from project yield.
