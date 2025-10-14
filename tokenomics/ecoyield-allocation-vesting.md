@@ -1,24 +1,24 @@
 # Allocation & Vesting / Unlocking
 
-EcoYield’s total token supply is fixed at **1,000,000,000 $EYE**, with a fully diluted market cap of **$300M**. Tokens are allocated strategically across presale, ecosystem growth, team, and rewards to balance **capital raising, protocol adoption, and long-term alignment**.
+EcoYield’s total token supply is fixed at **1,000,000,000 $EYE**, with a fully diluted market cap of **$25M at first presale tier**. Tokens are allocated strategically across presale, ecosystem growth, team, and rewards to balance **capital raising, protocol adoption, and long-term alignment**.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Allocations:**
 
 * **Founders Round: 5%**
-  * 0 cliff period, 12-month vesting.
+  * 0 cliff period, 12-month vesting (10% unlocked at TGE)
   * Designed to onboard strategic early backers.
-* **Public Presale: 20%**
+* **Public Presale: 20%** (10% unlocked at TGE)
   * 12-month vesting, phased release via presale tiers.
   * Creates scarcity and strong early-mover incentives.
-* **Ecosystem: 20%**
+* **Ecosystem: 20%** (10% unlocked at TGE)
   * 36-month vesting.
   * Supports partnerships, integrations, and community incentives.
 * **Reserve: 15%**
   * 12-month cliff, 36-month vesting.
   * Strategic reserve for future opportunities.
-* **Liquidity (DEX & CEX): 10%**
+* **Liquidity (DEX & CEX): 10%**&#x20;
   * 100% unlocked at TGE.
   * Provides immediate trading liquidity and market support.
 * **Staking: 10%**
