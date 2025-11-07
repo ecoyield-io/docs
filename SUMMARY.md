@@ -69,6 +69,7 @@
     * [Panama Terms of Service](compliance-and-legal/legal-documentation/panama-legal-documentation-hub/panama-terms-of-service.md)
     * [Panama Usage Guide](compliance-and-legal/legal-documentation/panama-legal-documentation-hub/panama-usage-guide.md)
   * [Trademarks](compliance-and-legal/legal-documentation/trademarks.md)
+  * [Smart Contract Audit](compliance-and-legal/legal-documentation/smart-contract-audit.md)
 
 ## Projects & Pipeline
 

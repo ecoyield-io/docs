@@ -25,3 +25,5 @@ These files are organised by jurisdiction (UAE, BVI/SPV, Panama) for ease of ref
 
 [Trademarks](trademarks.md)
 
+[Smart Contract Audit](smart-contract-audit.md)
+
